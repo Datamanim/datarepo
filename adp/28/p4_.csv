@@ -1,0 +1,43 @@
+time(month),status,company
+1,event lost,X
+2,event lost,X
+3,event lost,X
+4,event lost,X
+5,event lost,X
+6,event lost,X
+7,death,X
+8,event lost,X
+9,event lost,X
+10,event lost,X
+11,death,X
+12,event lost,X
+13,event lost,X
+14,event lost,X
+15,event lost,X
+16,event lost,X
+17,event lost,X
+18,death,X
+19,event lost,X
+20,event lost,X
+21,event lost,X
+1,event lost,Y
+2,event lost,Y
+3,death,Y
+4,event lost,Y
+5,event lost,Y
+6,event lost,Y
+7,event lost,Y
+8,death,Y
+9,event lost,Y
+10,event lost,Y
+11,event lost,Y
+12,event lost,Y
+13,event lost,Y
+14,event lost,Y
+15,event lost,Y
+16,event lost,Y
+17,event lost,Y
+18,event lost,Y
+19,event lost,Y
+20,event lost,Y
+21,event lost,Y
