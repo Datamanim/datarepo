@@ -1,0 +1,13 @@
+,A,B,C,D,E
+contract_1,1,0,1,1,1
+contract_2,0,1,0,1,0
+contract_3,1,0,0,0,0
+contract_4,0,1,1,1,1
+contract_5,0,1,0,1,0
+contract_6,1,1,0,1,1
+contract_7,0,1,1,0,0
+contract_8,0,1,0,0,0
+contract_9,1,0,0,1,1
+contract_10,1,1,0,0,0
+contract_11,1,0,0,1,0
+contract_12,1,1,1,0,0
