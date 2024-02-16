@@ -1,0 +1,1263 @@
+,id,Gender,Age,Height,Weight,family_history_with_overweight,FAVC,FCVC,NCP,CAEC,SMOKE,CH2O,SCC,FAF,TUE,CALC,MTRANS,NObeyesdad,BMI
+0,4,male,27,1.8,87,no,no,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,frequently,walking,overweight_level_i,26.85185185
+1,11,male,26,1.85,105,yes,yes,always,3,frequently,no,more than 2 l,no,2 to 4,>5,sometimes,public_transportation,obesity_type_i,30.67932798
+2,14,male,41,1.8,99,no,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,frequently,automobile,obesity_type_i,30.55555556
+3,18,female,29,1.53,78,no,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,automobile,obesity_type_i,33.32051775
+4,20,female,23,1.65,70,yes,no,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,overweight_level_i,25.71166208
+5,22,female,52,1.69,87,yes,yes,always,1,sometimes,yes,between 1 and 2 l,no,0,0 to 2,no,automobile,obesity_type_i,30.46111831
+6,24,female,22,1.6,82,yes,yes,never,1,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,obesity_type_i,32.03125
+7,31,male,29,1.77,83,no,yes,never,4,frequently,no,more than 2 l,no,0,3 to 5,no,motorbike,overweight_level_i,26.49302563
+8,41,female,21,1.67,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.89232314
+9,66,female,21,1.62,69,yes,yes,never,3,frequently,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,overweight_level_i,26.29172382
+10,68,male,23,1.65,95,yes,yes,sometimes,3,always,no,between 1 and 2 l,no,0,3 to 5,frequently,automobile,obesity_type_i,34.89439853
+11,69,male,30,1.76,112,yes,yes,never,3,no,yes,between 1 and 2 l,yes,0,0 to 2,frequently,automobile,obesity_type_ii,36.15702479
+12,79,female,23,1.65,90,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,33.05785124
+13,83,male,23,1.67,86,yes,yes,sometimes,3,always,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,30.65724838
+14,88,male,19,1.82,87,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,overweight_level_i,26.26494385
+15,91,female,25,1.63,93,no,no,always,4,always,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.00319922
+16,93,male,55,1.78,84,yes,no,always,4,frequently,no,more than 2 l,yes,4 to 5,0 to 2,frequently,walking,overweight_level_i,26.51180407
+17,105,female,38,1.56,80,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.8731098
+18,108,male,22,1.88,90,yes,yes,sometimes,3,always,no,less than a liter,no,0,3 to 5,sometimes,automobile,overweight_level_i,25.46401086
+19,109,male,22,1.75,95,yes,no,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,walking,obesity_type_i,31.02040816
+20,110,female,21,1.65,88,yes,yes,always,1,sometimes,no,more than 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,32.32323232
+21,117,female,15,1.65,86,yes,yes,always,3,sometimes,no,less than a liter,no,4 to 5,>5,no,walking,obesity_type_i,31.58861341
+22,121,female,23,1.67,75,yes,yes,sometimes,3,frequently,yes,between 1 and 2 l,no,0,>5,no,walking,overweight_level_i,26.89232314
+23,126,male,18,1.75,80,yes,yes,sometimes,3,always,no,between 1 and 2 l,no,0,0 to 2,frequently,public_transportation,overweight_level_i,26.12244898
+24,135,male,30,1.77,109,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,34.79204571
+25,136,male,24,1.7,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,25.95155709
+26,138,male,44,1.6,80,yes,no,sometimes,3,sometimes,yes,more than 2 l,no,0,0 to 2,no,motorbike,obesity_type_i,31.25
+27,143,male,23,1.74,94,no,yes,sometimes,3,frequently,yes,less than a liter,no,1 to 2,3 to 5,frequently,automobile,obesity_type_i,30.88254723
+28,144,female,34,1.68,75,no,yes,always,1,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,overweight_level_i,26.57312925
+29,145,male,22,1.61,67,yes,no,sometimes,4,sometimes,no,more than 2 l,yes,2 to 4,>5,sometimes,public_transportation,overweight_level_i,25.84776822
+30,146,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+31,148,female,36,1.63,80,yes,no,always,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,30.1102789
+32,150,female,32,1.67,90,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.27078777
+33,153,female,38,1.5,60,yes,yes,sometimes,1,always,yes,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,26.66666667
+34,155,male,22,1.74,94,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,31.04769454
+35,159,female,40,1.55,62,yes,no,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,25.80645161
+36,166,male,30,1.92,130,yes,no,sometimes,3,sometimes,yes,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.26475694
+37,169,female,22,1.73,79,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.3958034
+38,175,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+39,180,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+40,185,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+41,186,female,31,1.62,68,no,no,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,25.91068435
+42,187,male,39,1.78,96,yes,no,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,frequently,automobile,obesity_type_i,30.29920465
+43,188,male,25,1.78,98,yes,no,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,30.93043808
+44,189,male,35,1.78,105,yes,yes,always,1,no,no,more than 2 l,no,4 to 5,3 to 5,frequently,automobile,obesity_type_i,33.13975508
+45,192,male,26,1.75,80,yes,yes,always,1,frequently,yes,between 1 and 2 l,yes,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.12244898
+46,193,male,20,1.83,85,yes,no,always,3,sometimes,no,more than 2 l,yes,4 to 5,0 to 2,sometimes,automobile,overweight_level_i,25.38146854
+47,195,female,23,1.6,83,yes,yes,always,3,frequently,no,more than 2 l,no,4 to 5,0 to 2,no,public_transportation,obesity_type_i,32.421875
+48,196,male,19,1.8,85,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,walking,overweight_level_i,26.2345679
+49,198,male,41,1.75,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,bike,obesity_type_ii,38.53061224
+50,201,female,23,1.63,83,yes,no,always,1,sometimes,yes,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,31.23941436
+51,202,female,41,1.54,80,yes,yes,sometimes,3,always,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,33.73250126
+52,203,female,26,1.56,102,yes,yes,always,3,sometimes,yes,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,41.91321499
+53,204,male,29,1.69,90,yes,no,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,31.5115017
+54,206,female,23,1.6,78,yes,yes,sometimes,1,sometimes,yes,between 1 and 2 l,no,1 to 2,0 to 2,frequently,public_transportation,obesity_type_i,30.46875
+55,207,male,19,1.75,100,yes,yes,sometimes,3,frequently,no,between 1 and 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,32.65306122
+56,211,male,20,1.8,114,yes,yes,sometimes,3,frequently,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_ii,35.18518519
+57,218,male,21,1.71,75,no,no,sometimes,3,frequently,no,more than 2 l,yes,4 to 5,3 to 5,frequently,automobile,overweight_level_i,25.64891762
+58,220,female,21,1.6,68,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.5625
+59,221,female,21,1.75,78,yes,no,sometimes,3,frequently,no,between 1 and 2 l,yes,0,>5,frequently,public_transportation,overweight_level_i,25.46938776
+60,225,female,23,1.63,82,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,30.86303587
+61,226,male,25,1.83,121,yes,no,always,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,walking,obesity_type_ii,36.13126698
+62,230,male,32,1.75,120,yes,no,always,3,sometimes,no,more than 2 l,no,0,>5,no,automobile,obesity_type_ii,39.18367347
+63,231,male,20,1.9,91,yes,yes,always,4,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,walking,overweight_level_i,25.20775623
+64,242,male,22,1.6,66,no,yes,always,3,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,no,bike,overweight_level_i,25.78125
+65,250,male,21,1.76,78,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,sometimes,walking,overweight_level_i,25.18078512
+66,256,male,19,1.78,81,yes,no,never,3,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,no,bike,overweight_level_i,25.56495392
+67,258,male,19,1.85,115,no,no,sometimes,3,sometimes,no,more than 2 l,yes,1 to 2,>5,no,public_transportation,obesity_type_i,33.60116874
+68,260,female,18,1.67,91,yes,yes,never,3,frequently,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,32.62935207
+69,261,male,21,1.72,75,no,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,public_transportation,overweight_level_i,25.35154137
+70,262,female,28,1.7,73,yes,no,sometimes,3,frequently,no,between 1 and 2 l,yes,2 to 4,0 to 2,sometimes,walking,overweight_level_i,25.25951557
+71,271,male,23,1.82,107,no,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,32.30286197
+72,286,male,21,1.79,105,yes,yes,sometimes,3,always,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,32.77051278
+73,295,male,18,1.86,110,yes,yes,sometimes,1,sometimes,yes,between 1 and 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,31.7955833
+74,298,male,26,1.74,80,no,no,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,automobile,overweight_level_i,26.42356982
+75,300,male,23,1.7,75,no,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.95155709
+76,305,male,20,1.8,85,yes,no,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,26.2345679
+77,306,male,23,1.75,120,yes,yes,sometimes,3,sometimes,yes,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,39.18367347
+78,320,female,27,1.55,63,no,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,automobile,overweight_level_i,26.2226847
+79,325,female,30,1.65,71,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,overweight_level_i,26.07897153
+80,328,male,23,1.72,76,yes,no,always,4,frequently,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,overweight_level_i,25.68956193
+81,330,female,19,1.65,82,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,30.11937557
+82,335,female,18,1.45,53,no,yes,sometimes,3,frequently,no,between 1 and 2 l,yes,1 to 2,>5,frequently,public_transportation,overweight_level_i,25.20808561
+83,339,female,17,1.6,65,no,yes,always,1,sometimes,no,between 1 and 2 l,yes,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.390625
+84,343,male,23,1.74,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,34.68093539
+85,345,male,18,1.87,173,yes,yes,always,3,frequently,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,49.47238983
+86,350,male,20,1.98,125,yes,yes,sometimes,3,always,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,31.88450158
+87,356,female,27,1.55,62,no,yes,always,1,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.80645161
+88,359,male,41,1.75,110,yes,no,sometimes,1,sometimes,no,less than a liter,no,1 to 2,0 to 2,frequently,automobile,obesity_type_ii,35.91836735
+89,362,female,40,1.56,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,32.8731098
+90,363,female,37,1.65,73,yes,no,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,26.81359045
+91,365,male,24,1.84,86,yes,yes,sometimes,1,always,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,25.40170132
+92,368,female,40,1.58,63,no,yes,sometimes,3,frequently,no,between 1 and 2 l,no,4 to 5,3 to 5,sometimes,public_transportation,overweight_level_i,25.23634033
+93,372,male,17,1.62,69,yes,yes,always,1,always,no,between 1 and 2 l,yes,1 to 2,>5,sometimes,public_transportation,overweight_level_i,26.29172382
+94,384,male,17,1.7,98,yes,no,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_i,33.9100346
+95,388,female,37,1.5,75,yes,yes,sometimes,3,frequently,no,less than a liter,no,0,0 to 2,sometimes,motorbike,obesity_type_i,33.33333333
+96,389,male,18,1.78,108,yes,no,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,34.08660523
+97,390,female,16,1.61,65,yes,yes,never,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,overweight_level_i,25.07619305
+98,399,male,21,1.85,125,yes,yes,always,1,always,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_ii,36.5230095
+99,401,male,18,1.65,70,yes,no,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,overweight_level_i,25.71166208
+100,404,female,26,1.66,112,yes,no,always,3,sometimes,no,more than 2 l,no,0,0 to 2,no,automobile,obesity_type_iii,40.64450573
+101,408,female,19,1.51,59,yes,yes,always,3,frequently,no,less than a liter,no,1 to 2,>5,sometimes,walking,overweight_level_i,25.87605807
+102,412,female,20,1.6,65,no,no,always,3,sometimes,no,between 1 and 2 l,yes,0,0 to 2,sometimes,public_transportation,overweight_level_i,25.390625
+103,415,male,33,1.83,113,yes,yes,sometimes,1,always,no,between 1 and 2 l,no,1 to 2,>5,frequently,automobile,obesity_type_i,33.74242289
+104,417,male,34,1.84,88,no,yes,always,3,sometimes,no,less than a liter,yes,2 to 4,0 to 2,no,automobile,overweight_level_i,25.99243856
+105,419,male,18,1.7,90,no,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_i,31.14186851
+106,420,male,29,1.62,89,yes,yes,never,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,33.91251334
+107,425,male,33,1.74,76,no,no,sometimes,3,sometimes,no,less than a liter,no,0,>5,sometimes,walking,overweight_level_i,25.10239133
+108,431,male,18,1.65,85,no,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,31.22130395
+109,436,female,19,1.76,80,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,4 to 5,3 to 5,no,public_transportation,overweight_level_i,25.82644628
+110,448,male,19,1.8,87,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,26.85185185
+111,449,female,24,1.6,101,yes,yes,always,1,sometimes,no,less than a liter,no,0,>5,sometimes,public_transportation,obesity_type_ii,39.2578125
+112,460,male,19,1.76,79,yes,yes,sometimes,3,frequently,no,more than 2 l,no,1 to 2,>5,frequently,public_transportation,overweight_level_i,25.5036157
+113,462,male,21,1.71,100,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,>5,no,public_transportation,obesity_type_i,34.19855682
+114,472,female,18,1.6,83,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,yes,1 to 2,0 to 2,no,public_transportation,obesity_type_i,32.421875
+115,476,female,18,1.62,68,no,no,sometimes,1,sometimes,no,less than a liter,no,0,>5,no,public_transportation,overweight_level_i,25.91068435
+116,477,female,18,1.71,75,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,overweight_level_i,25.64891762
+117,484,female,18,1.5,58,no,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,no,public_transportation,overweight_level_i,25.77777778
+118,488,male,20,1.84,104,yes,no,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,0 to 2,no,motorbike,obesity_type_i,30.71833648
+119,499,female,25,1.686306,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,36.77440043
+120,500,female,19,1.683124,127,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.71513073
+121,501,female,26,1.622397,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.0917132
+122,502,female,22,1.755643,138,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.7061199
+123,503,female,22,1.843419,165,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,48.5720615
+124,504,female,18,1.7456,133,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.65907412
+125,505,female,26,1.630927,111,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.91306329
+126,506,female,26,1.629191,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.49373652
+127,507,female,22,1.770612,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.73061954
+128,746,male,27,1.816298,87,no,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,no,automobile,overweight_level_i,26.36113616
+129,747,male,21,1.638085,70,no,yes,sometimes,1,no,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.08706216
+130,748,male,25,1.813678,86,no,yes,never,4,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,automobile,overweight_level_i,26.03425031
+131,749,male,22,1.697228,76,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.23673855
+132,750,male,21,1.617469,69,no,yes,never,3,no,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.32430011
+133,751,male,19,1.855543,89,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,overweight_level_i,25.8392367
+134,752,female,42,1.721854,83,no,yes,always,3,sometimes,no,more than 2 l,no,4 to 5,0 to 2,sometimes,automobile,overweight_level_i,27.9681968
+135,753,male,21,1.855353,86,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,25.10313324
+136,754,male,22,1.696336,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.06378627
+137,755,female,19,1.751631,80,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,4 to 5,3 to 5,frequently,public_transportation,overweight_level_i,26.07382472
+138,756,male,24,1.698346,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,overweight_level_i,26.00212956
+139,757,female,34,1.642971,75,yes,no,always,1,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,27.71150621
+140,758,female,22,1.613668,68,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.16318455
+141,759,male,21,1.605404,68,no,yes,sometimes,2,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.47186146
+142,760,female,35,1.529834,63,no,yes,sometimes,2,sometimes,no,less than a liter,no,0,3 to 5,sometimes,automobile,overweight_level_i,26.87752145
+143,761,female,37,1.55,62,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,25.94702227
+144,762,female,22,1.731261,78,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.08235012
+145,763,male,23,1.629194,70,no,yes,sometimes,1,no,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,overweight_level_i,26.37256892
+146,764,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+147,765,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+148,766,female,31,1.633491,69,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,25.7856607
+149,767,male,21,1.752391,79,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,sometimes,automobile,overweight_level_i,25.76127559
+150,768,male,20,1.818226,86,yes,yes,always,4,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,sometimes,public_transportation,overweight_level_i,25.96322944
+151,769,male,20,1.809101,85,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,25.97127664
+152,770,male,21,1.709484,75,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.66440397
+153,771,male,21,1.607082,68,yes,yes,sometimes,4,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.22135471
+154,772,female,23,1.718939,76,yes,yes,sometimes,3,frequently,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,overweight_level_i,25.70486131
+155,773,male,20,1.831357,90,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.7310892
+156,774,female,22,1.6,66,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.93804961
+157,775,female,21,1.754813,78,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.30687699
+158,776,male,18,1.778447,80,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,no,public_transportation,overweight_level_i,25.38002267
+159,777,male,21,1.709561,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.66209213
+160,778,female,29,1.674568,72,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,overweight_level_i,25.53426435
+161,779,male,26,1.755317,82,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,overweight_level_i,26.68780176
+162,780,male,23,1.708071,75,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.70688324
+163,781,male,20,1.806947,85,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.05760849
+164,782,female,24,1.599697,65,no,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,overweight_level_i,25.32522461
+165,783,female,33,1.721903,73,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,automobile,overweight_level_i,24.53630059
+166,784,male,23,1.712556,75,yes,yes,always,4,sometimes,no,less than a liter,no,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.73633636
+167,785,female,17,1.551288,55,no,yes,sometimes,1,sometimes,no,between 1 and 2 l,yes,0,>5,sometimes,public_transportation,overweight_level_i,22.82673862
+168,786,female,16,1.603842,65,yes,yes,always,1,sometimes,no,between 1 and 2 l,yes,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,25.26912433
+169,787,female,24,1.588597,62,no,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,>5,sometimes,public_transportation,overweight_level_i,24.70201472
+170,788,female,35,1.673482,73,yes,no,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,26.13550837
+171,789,male,23,1.858624,89,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,automobile,overweight_level_i,25.66968735
+172,790,female,37,1.593894,63,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,sometimes,automobile,overweight_level_i,24.92449391
+173,791,male,19,1.62,70,no,yes,sometimes,1,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.49353185
+174,792,female,16,1.616366,67,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,yes,1 to 2,>5,no,public_transportation,overweight_level_i,25.71466124
+175,793,female,18,1.637396,70,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,overweight_level_i,26.10902113
+176,794,female,19,1.550723,61,no,yes,always,3,sometimes,no,less than a liter,yes,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.21198759
+177,795,female,17,1.6,65,yes,yes,always,2,sometimes,no,between 1 and 2 l,yes,0,>5,sometimes,public_transportation,overweight_level_i,25.390625
+178,796,male,30,1.820471,88,no,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,overweight_level_i,26.45316682
+179,797,female,32,1.657496,74,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,automobile,overweight_level_i,26.80516176
+180,798,male,18,1.752123,80,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,overweight_level_i,26.0591836
+181,799,male,19,1.857231,88,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.55260443
+182,800,female,19,1.76,80,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,2 to 4,>5,frequently,public_transportation,overweight_level_i,25.67955772
+183,801,female,18,1.644682,68,yes,yes,sometimes,1,sometimes,no,less than a liter,no,0,>5,no,public_transportation,overweight_level_i,25.28379555
+184,802,female,18,1.737165,77,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,frequently,public_transportation,overweight_level_i,25.41627746
+185,803,female,20,1.507853,64,no,yes,always,3,sometimes,no,between 1 and 2 l,yes,0,0 to 2,sometimes,public_transportation,overweight_level_i,28.26301672
+186,804,male,28,1.81006,87,no,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,overweight_level_i,26.64173753
+187,805,male,27,1.80179,87,no,yes,always,2,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,automobile,overweight_level_i,26.79273573
+188,806,male,21,1.625891,70,no,yes,sometimes,1,no,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.47982959
+189,807,male,22,1.64037,70,no,yes,sometimes,1,no,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.01443535
+190,808,male,27,1.791047,83,no,yes,never,4,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,automobile,overweight_level_i,25.95605677
+191,809,male,22,1.679306,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.59509733
+192,810,female,21,1.615145,69,yes,yes,sometimes,4,no,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.31713936
+193,811,female,21,1.616467,69,yes,yes,never,4,no,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.31946283
+194,812,male,20,1.816783,87,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,overweight_level_i,26.21346584
+195,813,male,19,1.812472,87,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.40695562
+196,814,female,42,1.768231,76,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,24.18867825
+197,815,male,22,1.870931,89,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,overweight_level_i,25.49767952
+198,816,male,21,1.863685,90,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,overweight_level_i,25.78478462
+199,817,male,23,1.670227,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,overweight_level_i,26.88501378
+200,818,male,23,1.717288,76,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,overweight_level_i,25.75318865
+201,819,male,19,1.750359,80,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,frequently,public_transportation,overweight_level_i,26.05583102
+202,820,male,23,1.707557,75,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.82754987
+203,821,female,33,1.672446,75,yes,yes,always,1,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,overweight_level_i,26.74675879
+204,822,female,33,1.675979,75,yes,yes,sometimes,2,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,overweight_level_i,26.68645994
+205,823,female,22,1.611239,68,yes,yes,sometimes,4,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,26.16998017
+206,824,female,22,1.611356,68,yes,yes,sometimes,4,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,overweight_level_i,26.21487568
+207,825,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+208,826,female,37,1.508908,63,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,27.7511213
+209,827,female,40,1.561109,63,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,25.79819955
+210,828,female,39,1.554728,63,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,automobile,overweight_level_i,26.06825601
+211,829,female,22,1.730182,79,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.24140947
+212,830,female,21,1.743841,79,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.93911266
+213,831,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+214,832,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+215,833,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+216,834,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+217,835,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+218,836,female,29,1.642506,70,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,overweight_level_i,25.91223787
+219,837,female,31,1.69308,72,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,overweight_level_i,25.09223095
+220,838,male,23,1.752115,79,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.86873273
+221,839,male,26,1.745033,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.27136864
+222,840,male,20,1.820643,85,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.64302964
+223,841,male,20,1.80733,85,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.04479371
+224,842,male,20,1.8,85,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,26.2345679
+225,843,male,19,1.814255,85,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,25.90158947
+226,844,male,22,1.700181,75,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,25.96581204
+227,845,female,22,1.604697,68,yes,yes,sometimes,3,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.41362575
+228,846,female,21,1.611,68,yes,yes,sometimes,4,no,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.24255959
+229,847,female,21,1.754497,78,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,overweight_level_i,25.32499789
+230,848,female,21,1.752944,78,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,25.37269285
+231,849,male,19,1.859927,87,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,25.179982
+232,850,male,22,1.896073,91,yes,yes,sometimes,4,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.18000633
+233,851,male,22,1.605314,67,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.85207291
+234,852,female,21,1.758628,78,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,sometimes,public_transportation,overweight_level_i,25.33973658
+235,853,female,21,1.755427,78,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,sometimes,public_transportation,overweight_level_i,25.40953282
+236,854,female,19,1.779882,80,yes,yes,never,1,sometimes,no,more than 2 l,no,4 to 5,3 to 5,no,public_transportation,overweight_level_i,25.28168981
+237,855,male,21,1.712061,75,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.58720182
+238,856,male,21,1.676014,75,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.69967527
+239,857,female,28,1.7,74,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,overweight_level_i,25.68996678
+240,858,male,29,1.765874,82,yes,yes,never,4,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.31073213
+241,859,male,26,1.74595,80,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.24987179
+242,860,male,23,1.690196,75,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,overweight_level_i,26.25349483
+243,861,male,20,1.81748,85,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,25.73236155
+244,862,female,22,1.580964,65,no,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.15135931
+245,863,female,30,1.652084,74,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,overweight_level_i,26.95701566
+246,864,female,31,1.645511,69,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,overweight_level_i,25.54522776
+247,865,male,23,1.707968,75,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,overweight_level_i,25.84152163
+248,866,female,18,1.456346,56,no,yes,sometimes,3,sometimes,no,less than a liter,yes,0,>5,sometimes,public_transportation,overweight_level_i,26.17866836
+249,867,female,18,1.498561,55,no,yes,sometimes,3,sometimes,no,less than a liter,yes,0,3 to 5,sometimes,public_transportation,overweight_level_i,24.65907296
+250,868,female,17,1.603501,65,yes,yes,always,1,sometimes,no,between 1 and 2 l,yes,1 to 2,3 to 5,no,public_transportation,overweight_level_i,25.27987292
+251,869,female,22,1.558045,64,no,yes,always,2,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.19877338
+252,870,female,27,1.55,63,no,yes,sometimes,2,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.17163247
+253,871,female,35,1.647514,74,yes,no,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,27.23238226
+254,872,male,24,1.855779,86,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,overweight_level_i,25.0001831
+255,873,male,23,1.853223,87,yes,yes,sometimes,1,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,automobile,overweight_level_i,25.35591841
+256,874,female,40,1.570811,62,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,25.2129294
+257,875,female,16,1.617124,68,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,1 to 2,>5,no,public_transportation,overweight_level_i,25.96987491
+258,876,female,17,1.644053,67,yes,yes,never,1,sometimes,no,less than a liter,yes,0,0 to 2,no,public_transportation,overweight_level_i,24.95073175
+259,877,female,16,1.608914,65,yes,yes,never,1,sometimes,no,between 1 and 2 l,yes,0,3 to 5,no,public_transportation,overweight_level_i,25.11005681
+260,878,female,18,1.647971,69,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,overweight_level_i,25.34011331
+261,879,female,19,1.624831,70,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,overweight_level_i,26.50515094
+262,880,female,20,1.508267,61,no,yes,always,3,sometimes,no,between 1 and 2 l,yes,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.86045692
+263,881,female,19,1.518917,60,no,yes,always,3,sometimes,no,less than a liter,yes,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.12248959
+264,882,female,18,1.6,65,yes,yes,always,3,sometimes,no,between 1 and 2 l,yes,0,0 to 2,sometimes,public_transportation,overweight_level_i,25.390625
+265,883,male,33,1.838791,88,no,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,no,automobile,overweight_level_i,25.98458783
+266,884,female,33,1.730379,76,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,25.35576375
+267,885,female,19,1.759117,80,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,4 to 5,3 to 5,no,public_transportation,overweight_level_i,25.85238029
+268,886,female,19,1.755254,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,4 to 5,3 to 5,no,public_transportation,overweight_level_i,25.96629843
+269,887,male,19,1.804099,85,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,26.17579589
+270,888,male,19,1.813567,86,yes,yes,always,4,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.19162126
+271,889,female,21,1.75655,79,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,>5,frequently,public_transportation,overweight_level_i,25.51369792
+272,890,female,19,1.756774,80,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,frequently,public_transportation,overweight_level_i,25.91807609
+273,891,female,18,1.62,69,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,>5,no,public_transportation,overweight_level_i,26.44029111
+274,892,female,21,1.709585,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.66137162
+275,893,female,17,1.535618,57,no,yes,sometimes,2,sometimes,no,between 1 and 2 l,yes,0,3 to 5,sometimes,public_transportation,overweight_level_i,24.28165651
+276,894,male,26,1.818848,87,no,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,no,automobile,overweight_level_i,26.30801835
+277,895,male,27,1.817641,87,no,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,overweight_level_i,26.36564598
+278,896,male,21,1.636592,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.13468032
+279,897,male,21,1.621412,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.62632779
+280,898,male,27,1.802871,86,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,26.38798144
+281,899,male,22,1.696201,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.20668305
+282,900,male,21,1.694633,75,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.13437441
+283,901,female,21,1.618148,69,yes,yes,never,3,no,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.34483856
+284,902,male,19,1.856811,89,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.70769076
+285,903,female,39,1.738321,87,no,yes,always,3,sometimes,no,less than a liter,no,4 to 5,0 to 2,sometimes,automobile,overweight_level_i,28.76960742
+286,904,female,40,1.739293,81,no,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,automobile,overweight_level_i,26.7473169
+287,905,male,20,1.807538,85,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.11296877
+288,906,male,20,1.849425,85,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,24.91778535
+289,907,male,21,1.712473,75,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.57489137
+290,908,female,19,1.753471,80,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,4 to 5,3 to 5,no,public_transportation,overweight_level_i,26.01913244
+291,909,male,24,1.717432,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,overweight_level_i,25.55327578
+292,910,male,23,1.677573,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,overweight_level_i,26.65007331
+293,911,female,34,1.679725,75,yes,yes,always,1,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,overweight_level_i,26.5411508
+294,912,female,22,1.600914,68,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.55516066
+295,913,female,21,1.617749,69,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.32984013
+296,914,male,21,1.610209,69,no,yes,sometimes,3,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.56036891
+297,915,male,21,1.612556,69,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.71325368
+298,916,female,39,1.548178,62,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,automobile,overweight_level_i,26.00968139
+299,917,female,39,1.568441,63,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,automobile,overweight_level_i,25.55076821
+300,918,female,150,1.532322,62,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,automobile,overweight_level_i,26.58302523
+301,919,female,22,1.730199,79,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.38875046
+302,920,female,22,1.730167,78,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.20006427
+303,921,male,22,1.627396,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.43087566
+304,922,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+305,923,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+306,924,male,21,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.6727633
+307,925,female,30,1.638744,69,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,25.78395858
+308,926,female,31,1.680858,72,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,overweight_level_i,25.41811363
+309,927,female,21,1.758372,79,yes,yes,always,1,sometimes,no,more than 2 l,no,4 to 5,3 to 5,sometimes,public_transportation,overweight_level_i,25.70271689
+310,928,male,20,1.822573,85,yes,yes,always,3,sometimes,no,more than 2 l,no,4 to 5,0 to 2,sometimes,public_transportation,overweight_level_i,25.61414669
+311,929,male,20,1.815409,85,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,overweight_level_i,25.88278405
+312,930,male,22,1.698049,75,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.01122625
+313,931,female,21,1.60681,68,yes,yes,sometimes,3,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.25025433
+314,932,female,22,1.610327,68,yes,yes,sometimes,4,no,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.22281708
+315,933,male,23,1.710415,75,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.68530434
+316,934,male,23,1.716289,76,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,overweight_level_i,25.69500319
+317,935,male,20,1.834715,89,yes,yes,sometimes,4,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.56697565
+318,936,female,22,1.611822,67,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.84339422
+319,937,female,22,1.6,66,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,25.83084531
+320,938,female,21,1.753578,78,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,25.35878442
+321,939,female,21,1.742364,79,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.91204322
+322,940,male,19,1.775626,80,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,4 to 5,3 to 5,no,public_transportation,overweight_level_i,25.40988364
+323,941,male,21,1.714253,75,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.52180741
+324,942,male,21,1.693628,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,26.14720147
+325,943,female,29,1.659172,71,yes,yes,sometimes,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,sometimes,automobile,overweight_level_i,25.85319083
+326,944,male,24,1.776347,82,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,overweight_level_i,26.09140551
+327,945,male,26,1.767806,83,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,overweight_level_i,26.4611315
+328,946,male,23,1.702516,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.87491068
+329,947,male,20,1.814182,85,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.91746752
+330,948,female,22,1.59994,65,no,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.55814417
+331,949,female,32,1.666023,73,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,automobile,overweight_level_i,26.2665113
+332,950,male,23,1.701584,75,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.93557968
+333,951,male,23,1.713343,76,yes,yes,always,4,sometimes,no,less than a liter,no,0,>5,sometimes,public_transportation,overweight_level_i,25.83102584
+334,952,female,17,1.489409,54,no,yes,sometimes,2,sometimes,no,between 1 and 2 l,yes,0,>5,sometimes,public_transportation,overweight_level_i,24.17150846
+335,953,female,18,1.518067,56,no,yes,sometimes,2,sometimes,no,less than a liter,yes,0,>5,sometimes,public_transportation,overweight_level_i,24.22280534
+336,954,female,16,1.616533,65,yes,yes,sometimes,1,sometimes,no,less than a liter,yes,0,3 to 5,no,public_transportation,overweight_level_i,24.89800603
+337,955,female,23,1.589616,65,no,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,>5,sometimes,public_transportation,overweight_level_i,25.77381952
+338,956,female,35,1.675612,74,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,overweight_level_i,26.17867736
+339,957,male,23,1.874061,90,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,automobile,overweight_level_i,25.55570275
+340,958,female,39,1.580765,63,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,25.0644034
+341,959,male,20,1.62,70,no,yes,sometimes,1,no,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,overweight_level_i,26.51094155
+342,960,female,16,1.613921,67,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,yes,1 to 2,>5,no,public_transportation,overweight_level_i,25.62203657
+343,961,female,18,1.618683,67,yes,yes,sometimes,1,sometimes,no,less than a liter,yes,1 to 2,>5,no,public_transportation,overweight_level_i,25.64508846
+344,962,male,19,1.637537,70,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,overweight_level_i,26.1045251
+345,963,female,20,1.566524,62,no,yes,always,3,sometimes,no,between 1 and 2 l,yes,1 to 2,0 to 2,sometimes,public_transportation,overweight_level_i,25.10842062
+346,964,female,20,1.542328,64,no,yes,always,3,sometimes,no,between 1 and 2 l,yes,0,0 to 2,sometimes,public_transportation,overweight_level_i,26.84414259
+347,965,female,17,1.6,65,yes,yes,always,2,sometimes,no,between 1 and 2 l,yes,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.390625
+348,966,female,17,1.600184,65,yes,yes,always,2,sometimes,no,between 1 and 2 l,yes,1 to 2,>5,sometimes,public_transportation,overweight_level_i,25.38478616
+349,967,male,29,1.773656,87,no,yes,sometimes,4,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,overweight_level_i,27.67775922
+350,968,female,32,1.64602,74,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,automobile,overweight_level_i,27.36692256
+351,969,female,32,1.65015,74,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,automobile,overweight_level_i,27.10644984
+352,970,male,18,1.751029,80,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,frequently,public_transportation,overweight_level_i,26.09175605
+353,971,male,20,1.838266,89,yes,yes,sometimes,4,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.48447128
+354,972,male,20,1.824449,88,yes,yes,always,4,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,overweight_level_i,26.33409129
+355,973,female,19,1.76,79,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,>5,no,public_transportation,overweight_level_i,25.61635492
+356,974,female,18,1.622241,68,yes,yes,sometimes,1,sometimes,no,less than a liter,no,0,>5,no,public_transportation,overweight_level_i,25.93423807
+357,975,female,18,1.729996,76,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,frequently,public_transportation,overweight_level_i,25.33235811
+358,976,female,18,1.725233,76,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,frequently,public_transportation,overweight_level_i,25.52411445
+359,977,female,20,1.541039,65,no,yes,always,3,sometimes,no,between 1 and 2 l,yes,0,3 to 5,sometimes,public_transportation,overweight_level_i,27.25573324
+360,"1,210",male,26,1.772449,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,>5,sometimes,public_transportation,obesity_type_i,33.42272099
+361,"1,211",male,26,1.837117,106,yes,yes,always,3,sometimes,no,more than 2 l,,2 to 4,>5,sometimes,public_transportation,obesity_type_i,31.32214943
+362,"1,212",male,31,1.784377,103,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.30919086
+363,"1,213",male,40,1.792507,102,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,4 to 5,3 to 5,sometimes,automobile,obesity_type_i,31.67678875
+364,"1,214",female,31,1.556579,78,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,32.28862442
+365,"1,215",female,26,1.585547,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,31.96203827
+366,"1,216",female,44,1.569234,82,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,automobile,obesity_type_i,33.22941832
+367,"1,217",female,42,1.583943,82,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,automobile,obesity_type_i,32.65861553
+368,"1,218",female,23,1.621233,82,yes,yes,never,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,31.19772906
+369,"1,219",female,23,1.6084,83,yes,yes,always,1,sometimes,no,more than 2 l,no,0,>5,sometimes,public_transportation,obesity_type_i,31.93102538
+370,"1,220",male,24,1.733439,98,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.58503533
+371,"1,221",male,21,1.65,88,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.49673425
+372,"1,222",female,23,1.650052,87,yes,yes,always,1,sometimes,no,more than 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,32.05401339
+373,"1,223",female,23,1.644161,84,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,31.19945463
+374,"1,224",female,37,1.559499,77,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,31.77094996
+375,"1,225",male,23,1.734237,95,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,4 to 5,3 to 5,no,public_transportation,obesity_type_i,31.5868785
+376,"1,226",male,23,1.775815,98,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,31.01710364
+377,"1,227",female,22,1.640426,87,yes,yes,always,1,sometimes,no,more than 2 l,no,1 to 2,>5,no,public_transportation,obesity_type_i,32.45791096
+378,"1,228",female,18,1.65,82,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,30.16963085
+379,"1,229",male,26,1.753321,108,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,35.13145374
+380,"1,230",female,41,1.553026,78,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.23413499
+381,"1,231",male,23,1.706525,91,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,31.07588698
+382,"1,232",female,38,1.560648,80,yes,yes,always,1,sometimes,no,less than a liter,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.84581683
+383,"1,233",male,31,1.673352,90,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.14162984
+384,"1,234",male,23,1.660324,94,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,34.16766219
+385,"1,235",male,40,1.786318,98,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,automobile,obesity_type_i,30.85221217
+386,"1,236",male,23,1.757691,95,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,30.86664018
+387,"1,237",male,22,1.712163,99,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,33.6687358
+388,"1,238",male,35,1.78,101,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,2 to 4,0 to 2,frequently,automobile,obesity_type_i,31.8291977
+389,"1,239",female,22,1.6,82,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,32.04699922
+390,"1,240",female,23,1.61082,83,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,31.80779573
+391,"1,241",female,23,1.665199,83,yes,yes,always,1,sometimes,no,more than 2 l,no,0,>5,no,public_transportation,obesity_type_i,29.98720421
+392,"1,242",female,41,1.542122,80,yes,yes,sometimes,1,sometimes,no,less than a liter,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,33.63973154
+393,"1,243",female,39,1.507867,80,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,35.00500464
+394,"1,244",male,26,1.660955,90,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_i,32.62321639
+395,"1,245",female,24,1.553127,78,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,32.3355806
+396,"1,246",male,21,1.781952,103,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,32.40918892
+397,"1,247",male,22,1.75,97,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,31.65396082
+398,"1,248",female,23,1.615854,81,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,30.87545553
+399,"1,249",male,21,1.793378,106,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,32.85084392
+400,"1,250",male,18,1.85478,115,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,33.36275356
+401,"1,251",female,18,1.685633,90,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,31.68648641
+402,"1,252",female,18,1.706343,93,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,32.06094131
+403,"1,253",male,23,1.791415,105,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,32.76178834
+404,"1,254",male,23,1.753716,106,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,34.62549963
+405,"1,255",male,21,1.780503,103,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,32.54994232
+406,"1,256",male,22,1.819867,106,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,32.01725867
+407,"1,257",male,18,1.791174,109,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,>5,no,public_transportation,obesity_type_i,33.96205281
+408,"1,258",male,18,1.82093,109,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.79524157
+409,"1,259",female,19,1.627812,82,yes,yes,never,3,sometimes,no,less than a liter,no,0,>5,sometimes,public_transportation,obesity_type_i,30.94605984
+410,"1,260",female,23,1.632118,82,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,30.7829859
+411,"1,261",male,22,1.773594,105,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,33.37983155
+412,"1,262",male,21,1.930416,119,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,31.81546229
+413,"1,263",male,22,1.947406,117,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,30.82306963
+414,"1,264",female,38,1.610867,80,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,30.82979363
+415,"1,265",female,38,1.513202,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.93357325
+416,"1,266",male,18,1.738465,97,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,32.15655043
+417,"1,267",female,38,1.567915,76,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,30.96774396
+418,"1,268",female,44,1.587546,76,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,30.20515116
+419,"1,269",male,18,1.820385,108,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,32.71016789
+420,"1,270",male,18,1.792239,108,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,33.69872784
+421,"1,271",male,30,1.82697,109,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_i,32.58160182
+422,"1,272",female,18,1.670058,86,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,30.92139869
+423,"1,273",male,25,1.639383,91,yes,yes,never,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,33.95887816
+424,"1,274",male,29,1.682916,90,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,31.77440576
+425,"1,275",female,18,1.609321,84,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,32.6239224
+426,"1,276",male,21,1.690437,96,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,no,public_transportation,obesity_type_i,33.72324474
+427,"1,277",male,19,1.700164,99,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,>5,no,public_transportation,obesity_type_i,34.32026197
+428,"1,278",female,18,1.60074,82,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_i,32.09914166
+429,"1,279",male,18,1.801848,105,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,32.26147367
+430,"1,280",male,26,1.844751,105,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,>5,sometimes,public_transportation,obesity_type_i,30.86174813
+431,"1,281",male,26,1.811602,106,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_i,32.3111867
+432,"1,282",male,37,1.787521,101,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,frequently,automobile,obesity_type_i,31.49210268
+433,"1,283",male,38,1.789109,100,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,frequently,automobile,obesity_type_i,31.26180877
+434,"1,284",female,30,1.533364,78,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,33.18739872
+435,"1,285",female,29,1.580858,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,31.89672631
+436,"1,286",female,42,1.64639,87,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,automobile,obesity_type_i,31.96335128
+437,"1,287",female,47,1.643786,82,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,automobile,obesity_type_i,30.33965935
+438,"1,288",female,23,1.634342,82,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,obesity_type_i,30.85443683
+439,"1,289",female,23,1.604893,82,yes,yes,never,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,31.8362339
+440,"1,290",male,23,1.654961,95,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,34.60904761
+441,"1,291",male,23,1.701986,95,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,32.7953023
+442,"1,292",male,23,1.65,89,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.74167456
+443,"1,293",male,24,1.657995,90,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.7398041
+444,"1,294",female,23,1.634688,83,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,30.92128202
+445,"1,295",female,23,1.628168,84,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,31.87483146
+446,"1,296",female,38,1.557808,80,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.82628021
+447,"1,297",female,38,1.560199,80,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,32.86472454
+448,"1,298",male,23,1.750384,95,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,31.11264066
+449,"1,299",male,23,1.753081,95,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,30.99902588
+450,"1,300",female,21,1.65,88,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.36971313
+451,"1,301",female,23,1.650012,88,yes,yes,always,1,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.2038122
+452,"1,302",female,16,1.65,86,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,31.43562351
+453,"1,303",female,17,1.634832,86,yes,yes,sometimes,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,32.10408581
+454,"1,304",male,29,1.770126,109,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,>5,sometimes,automobile,obesity_type_i,34.66030022
+455,"1,305",male,30,1.758189,109,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,35.17109489
+456,"1,306",female,44,1.595165,77,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,automobile,obesity_type_i,30.40015018
+457,"1,307",female,41,1.567756,79,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,0 to 2,no,automobile,obesity_type_i,32.34263236
+458,"1,308",male,23,1.702825,94,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,32.29338488
+459,"1,309",male,23,1.735659,93,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,31.01371875
+460,"1,310",female,38,1.62901,80,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,30.14688792
+461,"1,311",female,38,1.615385,80,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,30.65758177
+462,"1,312",male,32,1.671705,90,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.2049943
+463,"1,313",male,32,1.676595,90,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,32.01520706
+464,"1,314",male,22,1.699998,96,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,33.06735393
+465,"1,315",male,22,1.722785,94,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,31.70301869
+466,"1,316",male,36,1.670667,91,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,32.45136973
+467,"1,317",male,150,1.789992,98,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_i,30.59287856
+468,"1,318",male,24,1.768834,97,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,31.14630578
+469,"1,319",male,23,1.761008,98,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,>5,no,public_transportation,obesity_type_i,31.54615868
+470,"1,320",male,35,1.78,102,yes,yes,always,1,sometimes,no,more than 2 l,no,4 to 5,3 to 5,sometimes,automobile,obesity_type_i,32.27684478
+471,"1,321",male,31,1.810215,105,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_i,32.12031174
+472,"1,322",female,23,1.608469,83,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,32.06388257
+473,"1,323",female,23,1.630357,83,yes,yes,always,2,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,31.26377004
+474,"1,324",female,23,1.62826,83,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,31.29412286
+475,"1,325",female,22,1.605662,82,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,obesity_type_i,31.98819322
+476,"1,326",female,41,1.567973,81,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.9695157
+477,"1,327",female,41,1.548403,80,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,33.36737013
+478,"1,328",male,29,1.681855,90,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,31.81745277
+479,"1,329",male,31,1.688436,90,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,31.56990701
+480,"1,330",female,23,1.577115,78,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,31.35940962
+481,"1,331",female,24,1.586751,79,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,31.42016726
+482,"1,332",male,17,1.710616,100,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,34.12617447
+483,"1,333",male,18,1.721384,99,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,33.55556754
+484,"1,334",female,23,1.624367,82,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,31.07746146
+485,"1,335",female,23,1.622787,82,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,31.13800704
+486,"1,336",male,19,1.855433,113,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,32.78749966
+487,"1,337",male,21,1.856315,118,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,34.29687818
+488,"1,338",female,19,1.681719,91,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,32.06016224
+489,"1,339",female,21,1.722884,93,yes,yes,never,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,31.31366008
+490,"1,340",male,23,1.799406,107,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,32.90097371
+491,"1,341",male,22,1.819875,106,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,32.02001105
+492,"1,342",male,21,1.790172,105,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,32.77738211
+493,"1,343",male,22,1.783782,105,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,32.99946403
+494,"1,344",male,150,1.783906,109,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,34.31697404
+495,"1,345",male,18,1.844218,109,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,>5,no,public_transportation,obesity_type_i,32.10556695
+496,"1,346",female,19,1.631662,82,yes,yes,always,3,sometimes,no,less than a liter,no,0,>5,no,public_transportation,obesity_type_i,30.80019413
+497,"1,347",female,18,1.649553,82,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,30.2547573
+498,"1,348",male,22,1.754711,105,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,34.10209202
+499,"1,349",male,22,1.762515,105,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,33.80057254
+500,"1,350",male,20,1.942725,122,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,32.23427745
+501,"1,351",male,20,1.975663,121,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,30.923746
+502,"1,352",female,39,1.586301,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,31.7920689
+503,"1,353",female,38,1.598448,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,31.31071332
+504,"1,354",male,19,1.703098,98,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,33.88905383
+505,"1,355",male,17,1.706996,100,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,34.1627732
+506,"1,356",female,39,1.526472,75,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.25175067
+507,"1,357",female,39,1.501993,77,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,33.97319259
+508,"1,358",male,18,1.784402,108,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,34.04837868
+509,"1,359",male,18,1.792687,108,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,33.6694927
+510,"1,360",male,30,1.814052,109,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,33.2478826
+511,"1,361",male,31,1.789421,110,yes,yes,sometimes,2,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,automobile,obesity_type_i,34.22814216
+512,"1,362",female,18,1.686904,90,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,31.62869672
+513,"1,363",female,18,1.703259,91,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,31.53974695
+514,"1,364",male,31,1.665798,90,yes,yes,sometimes,1,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,32.33959657
+515,"1,365",male,29,1.66671,89,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.05566744
+516,"1,366",female,18,1.65,84,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,30.93132599
+517,"1,367",female,18,1.649439,85,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,31.20495791
+518,"1,368",male,21,1.702002,98,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,>5,no,public_transportation,obesity_type_i,33.82050279
+519,"1,369",male,21,1.69382,100,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,>5,no,public_transportation,obesity_type_i,34.69155188
+520,"1,370",female,18,1.622999,82,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,31.28289372
+521,"1,371",female,18,1.633675,82,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,30.89653498
+522,"1,372",male,20,1.836669,105,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,31.2026469
+523,"1,373",male,21,1.798354,104,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,4 to 5,0 to 2,no,public_transportation,obesity_type_i,32.06646425
+524,"1,374",male,26,1.824432,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,>5,sometimes,public_transportation,obesity_type_i,31.58489101
+525,"1,375",male,26,1.830384,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,>5,sometimes,public_transportation,obesity_type_i,31.48349016
+526,"1,376",male,26,1.829907,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,>5,sometimes,public_transportation,obesity_type_i,31.48702269
+527,"1,377",male,26,1.823755,106,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,31.80924236
+528,"1,378",male,150,1.834842,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,automobile,obesity_type_i,31.24753422
+529,"1,379",male,33,1.783901,104,yes,yes,always,2,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,automobile,obesity_type_i,32.60889307
+530,"1,380",male,39,1.782067,104,yes,yes,always,2,sometimes,no,more than 2 l,no,4 to 5,3 to 5,frequently,automobile,obesity_type_i,32.61778312
+531,"1,381",male,40,1.781032,96,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,2 to 4,3 to 5,frequently,automobile,obesity_type_i,30.35989233
+532,"1,382",female,33,1.557943,78,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,31.99083362
+533,"1,383",female,26,1.560258,78,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.21974287
+534,"1,384",female,23,1.596586,81,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,31.66867179
+535,"1,385",female,25,1.62093,82,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,31.10215215
+536,"1,386",female,43,1.571417,82,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,automobile,obesity_type_i,33.17422113
+537,"1,387",female,44,1.584322,81,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,automobile,obesity_type_i,32.26455675
+538,"1,388",female,43,1.582523,82,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,automobile,obesity_type_i,32.71048532
+539,"1,389",female,40,1.572791,80,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,no,automobile,obesity_type_i,32.37556929
+540,"1,390",female,23,1.627908,82,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,30.94241008
+541,"1,391",female,23,1.620938,82,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,0,>5,sometimes,public_transportation,obesity_type_i,31.31686547
+542,"1,392",female,23,1.613119,83,yes,yes,always,1,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,31.75684324
+543,"1,393",female,23,1.62686,82,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,31.13727109
+544,"1,394",male,23,1.728183,98,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,>5,no,public_transportation,obesity_type_i,32.79962446
+545,"1,395",male,23,1.732694,98,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,>5,no,public_transportation,obesity_type_i,32.789353
+546,"1,396",female,21,1.65,88,yes,yes,always,1,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.37077576
+547,"1,397",female,21,1.65,88,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,32.33312874
+548,"1,398",female,23,1.66913,86,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,30.86966679
+549,"1,399",female,23,1.669136,86,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,30.71354082
+550,"1,400",female,23,1.611058,84,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,32.43724501
+551,"1,401",female,23,1.649736,84,yes,yes,sometimes,1,sometimes,no,more than 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,30.91336697
+552,"1,402",female,39,1.532643,78,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,33.01427178
+553,"1,403",female,37,1.524293,76,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,32.79697559
+554,"1,404",male,23,1.701634,95,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.80887178
+555,"1,405",male,23,1.723921,95,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,31.87986701
+556,"1,406",male,23,1.769484,96,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,30.68546878
+557,"1,407",male,24,1.777416,98,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,30.97055251
+558,"1,408",female,22,1.64456,88,yes,yes,always,1,sometimes,no,more than 2 l,no,1 to 2,>5,no,public_transportation,obesity_type_i,32.58147934
+559,"1,409",female,21,1.641149,88,yes,yes,always,1,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,32.70221904
+560,"1,410",female,18,1.642892,82,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,30.43406463
+561,"1,411",female,19,1.65,82,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_i,30.12610101
+562,"1,412",male,26,1.777251,106,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_i,33.70216403
+563,"1,413",male,26,1.814696,108,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,32.66190684
+564,"1,414",female,40,1.559005,78,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,31.92824187
+565,"1,415",female,38,1.556028,78,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.08470455
+566,"1,416",male,24,1.653751,91,yes,yes,never,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,automobile,obesity_type_i,33.34857123
+567,"1,417",male,23,1.680171,91,yes,yes,never,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,automobile,obesity_type_i,32.25960813
+568,"1,418",female,38,1.552648,80,yes,yes,always,1,sometimes,no,less than a liter,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,33.18516418
+569,"1,419",female,38,1.560215,80,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.86405049
+570,"1,420",male,32,1.672959,90,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.15673259
+571,"1,421",male,30,1.680058,90,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,31.88355209
+572,"1,422",male,22,1.664752,94,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,34.01045446
+573,"1,423",male,22,1.668553,94,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,33.92674181
+574,"1,424",male,40,1.785286,100,yes,yes,always,2,sometimes,no,more than 2 l,no,4 to 5,3 to 5,frequently,automobile,obesity_type_i,31.51047073
+575,"1,425",male,37,1.780725,99,yes,yes,always,1,sometimes,no,more than 2 l,no,4 to 5,3 to 5,frequently,automobile,obesity_type_i,31.1544442
+576,"1,426",male,23,1.751046,95,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,3 to 5,no,public_transportation,obesity_type_i,31.07660165
+577,"1,427",male,23,1.751365,95,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,31.06675908
+578,"1,428",male,22,1.717262,99,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,4 to 5,>5,no,public_transportation,obesity_type_i,33.4281218
+579,"1,429",male,22,1.741393,98,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,32.37728951
+580,"1,430",male,37,1.7921,101,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,31.53725814
+581,"1,431",male,38,1.785957,99,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,31.10044148
+582,"1,432",female,22,1.609068,84,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,32.36078852
+583,"1,433",female,23,1.603963,82,yes,yes,never,1,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,31.87807475
+584,"1,434",female,22,1.605495,83,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,no,public_transportation,obesity_type_i,32.01742726
+585,"1,435",female,22,1.607182,82,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,31.88825296
+586,"1,436",female,23,1.661715,83,yes,yes,never,1,sometimes,no,more than 2 l,no,0,>5,sometimes,public_transportation,obesity_type_i,29.91195831
+587,"1,437",female,23,1.655742,82,yes,yes,always,1,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,30.07999794
+588,"1,438",female,39,1.549257,80,yes,yes,always,1,sometimes,no,less than a liter,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,33.33059395
+589,"1,439",female,41,1.549748,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,33.30947731
+590,"1,440",female,41,1.52906,80,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,34.11466499
+591,"1,441",female,39,1.517248,80,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,34.68365849
+592,"1,442",male,26,1.65731,90,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_i,32.76687374
+593,"1,443",male,27,1.673287,90,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,32.14412702
+594,"1,444",female,24,1.581527,78,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,31.22049884
+595,"1,445",female,24,1.562724,81,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,32.97796578
+596,"1,446",male,21,1.781251,103,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,32.44740933
+597,"1,447",male,22,1.775584,104,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,32.86260791
+598,"1,448",male,23,1.746645,97,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,3 to 5,no,public_transportation,obesity_type_i,31.75445592
+599,"1,449",male,22,1.741353,97,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,4 to 5,3 to 5,no,public_transportation,obesity_type_i,31.9024128
+600,"1,450",female,23,1.571812,79,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,31.97498219
+601,"1,451",female,24,1.589027,81,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,31.90211875
+602,"1,452",male,21,1.803245,106,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,32.50187096
+603,"1,453",male,21,1.792646,106,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,32.86650822
+604,"1,454",male,22,1.87199,116,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,32.99546778
+605,"1,455",male,18,1.859056,111,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,32.18527683
+606,"1,456",female,18,1.692242,90,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_i,31.43486951
+607,"1,457",female,18,1.683,91,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,32.10046288
+608,"1,458",female,20,1.738397,94,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,31.0688062
+609,"1,459",female,18,1.694969,93,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,32.20003511
+610,"1,460",male,22,1.785718,105,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,32.94532608
+611,"1,461",male,23,1.7425,105,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,34.59093265
+612,"1,462",male,22,1.803132,106,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,32.70385976
+613,"1,463",male,23,1.774644,106,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,33.64710588
+614,"1,464",male,21,1.782269,105,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,33.04599363
+615,"1,465",male,21,1.780791,103,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,32.45480566
+616,"1,466",male,22,1.790151,106,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,33.17710133
+617,"1,467",male,22,1.818641,105,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_i,31.89672187
+618,"1,468",male,18,1.806827,109,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,>5,no,public_transportation,obesity_type_i,33.33596806
+619,"1,469",male,18,1.811189,109,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,33.1669243
+620,"1,470",male,18,1.811738,109,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,33.17618322
+621,"1,471",male,18,1.799779,109,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,1 to 2,>5,no,public_transportation,obesity_type_i,33.63003963
+622,"1,472",female,19,1.632605,82,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_i,30.76462374
+623,"1,473",female,19,1.623377,83,yes,yes,never,3,sometimes,no,less than a liter,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,31.43841514
+624,"1,474",female,23,1.618686,81,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,31.0217937
+625,"1,475",female,23,1.616085,83,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,31.62001088
+626,"1,476",male,22,1.769328,105,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,33.54092077
+627,"1,477",male,22,1.807029,106,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_i,32.36903694
+628,"1,478",male,21,1.882533,117,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,33.14639385
+629,"1,479",male,20,1.879144,113,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,31.98163631
+630,"1,480",male,22,1.931263,118,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_i,31.6917438
+631,"1,481",male,21,1.861358,115,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_i,33.30720273
+632,"1,482",female,39,1.567131,80,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.57462192
+633,"1,483",female,38,1.565366,80,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,automobile,obesity_type_i,32.64812118
+634,"1,484",female,38,1.516007,77,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,33.51773589
+635,"1,485",female,37,1.549812,76,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,31.67574464
+636,"1,486",male,19,1.714143,97,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,public_transportation,obesity_type_i,32.86569334
+637,"1,487",male,17,1.723191,97,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,32.78466522
+638,"1,488",female,39,1.562889,77,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_i,31.38409839
+639,"1,489",female,37,1.502609,75,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,33.34151733
+640,"1,490",female,41,1.544937,77,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,32.28295992
+641,"1,491",female,44,1.592316,77,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,30.3695262
+642,"1,492",male,18,1.787733,108,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,33.79836463
+643,"1,493",male,18,1.782722,108,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,33.99653573
+644,"1,494",male,18,1.797523,108,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,33.52320662
+645,"1,495",male,18,1.803527,108,yes,yes,sometimes,2,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,33.28026661
+646,"1,496",male,29,1.801224,108,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_i,33.33618749
+647,"1,497",male,28,1.829239,107,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_i,32.00971269
+648,"1,498",female,18,1.692913,90,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,31.38182841
+649,"1,499",female,18,1.668555,86,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,30.74897112
+650,"1,500",male,23,1.652971,93,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,no,automobile,obesity_type_i,34.15065539
+651,"1,501",male,24,1.661277,91,yes,yes,sometimes,3,sometimes,no,less than a liter,no,0,3 to 5,no,automobile,obesity_type_i,32.88050148
+652,"1,502",male,29,1.641784,89,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_i,33.176201
+653,"1,503",male,28,1.673767,90,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_i,32.12392056
+654,"1,504",female,18,1.617192,83,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,31.78277608
+655,"1,505",female,18,1.602129,82,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,public_transportation,obesity_type_i,32.10694581
+656,"1,506",male,21,1.701413,97,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,no,public_transportation,obesity_type_i,33.40836258
+657,"1,507",male,21,1.709731,95,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_i,32.50986049
+658,"1,508",male,20,1.698829,99,yes,yes,sometimes,2,sometimes,no,between 1 and 2 l,no,0,>5,no,public_transportation,obesity_type_i,34.15525671
+659,"1,509",male,21,1.705304,100,yes,yes,sometimes,1,sometimes,no,between 1 and 2 l,no,0,>5,no,public_transportation,obesity_type_i,34.34373999
+660,"1,510",female,19,1.61291,82,yes,yes,never,3,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_i,31.59487948
+661,"1,511",female,19,1.605469,82,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_i,31.82852475
+662,"1,512",male,19,1.80416,104,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,32.07589393
+663,"1,513",male,20,1.785062,104,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,public_transportation,obesity_type_i,32.69702445
+664,"1,514",male,30,1.755926,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,automobile,obesity_type_ii,36.41901624
+665,"1,515",male,25,1.787802,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,no,automobile,obesity_type_ii,36.01976272
+666,"1,516",male,37,1.704877,108,yes,yes,always,4,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,37.1386715
+667,"1,517",male,33,1.695347,103,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.77018027
+668,"1,518",male,28,1.908608,129,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,35.36528776
+669,"1,519",male,30,1.819296,122,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.90147958
+670,"1,520",male,27,1.773259,118,yes,no,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,37.57555046
+671,"1,521",male,34,1.774647,120,yes,no,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.15108789
+672,"1,522",male,26,1.773664,116,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,public_transportation,obesity_type_ii,36.92454317
+673,"1,523",male,28,1.793476,113,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_ii,35.04524694
+674,"1,524",male,28,1.82559,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.26414818
+675,"1,525",male,25,1.885543,121,yes,yes,sometimes,3,sometimes,no,more than 2 l,,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.1051456
+676,"1,526",male,31,1.75,120,yes,yes,always,3,sometimes,yes,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,39.18367347
+677,"1,527",male,31,1.87407,129,yes,yes,always,3,sometimes,yes,less than a liter,no,1 to 2,>5,sometimes,automobile,obesity_type_ii,36.69201797
+678,"1,528",male,25,1.755967,112,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.40638031
+679,"1,529",male,25,1.757069,117,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,37.99389663
+680,"1,530",male,41,1.75,117,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,38.07162482
+681,"1,531",male,28,1.704028,102,yes,yes,always,1,sometimes,no,less than a liter,no,0,0 to 2,sometimes,automobile,obesity_type_ii,35.00151982
+682,"1,532",male,23,1.849003,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.5137225
+683,"1,533",male,23,1.841989,122,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.96454646
+684,"1,534",male,24,1.613491,98,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,3 to 5,no,public_transportation,obesity_type_ii,37.83227175
+685,"1,535",male,20,1.647821,107,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_ii,39.22564577
+686,"1,536",male,30,1.75834,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.22872412
+687,"1,537",male,25,1.758398,112,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,36.25172841
+688,"1,538",male,31,1.670774,102,yes,yes,always,4,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,36.40577018
+689,"1,539",male,29,1.665585,99,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.56438119
+690,"1,540",male,31,1.914186,130,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,35.43905624
+691,"1,541",male,30,1.899588,124,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.43854907
+692,"1,542",male,32,1.75,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,38.56421127
+693,"1,543",male,37,1.75,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.99906776
+694,"1,544",male,22,1.773664,116,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.92454317
+695,"1,545",male,24,1.792998,116,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.11456526
+696,"1,546",male,24,1.82559,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,36.26414818
+697,"1,547",male,25,1.827279,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.23777738
+698,"1,548",male,32,1.775416,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,38.45201362
+699,"1,549",male,31,1.766975,118,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_ii,37.91024
+700,"1,550",male,23,1.754218,117,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,38.14560742
+701,"1,551",male,23,1.754996,119,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,38.66465365
+702,"1,552",male,41,1.748103,108,yes,yes,sometimes,4,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,obesity_type_ii,35.44271228
+703,"1,553",male,35,1.73325,104,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,obesity_type_ii,34.50857116
+704,"1,554",male,22,1.84995,122,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_ii,35.58599513
+705,"1,555",male,22,1.849601,122,yes,yes,always,2,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_ii,35.7593019
+706,"1,556",male,24,1.606066,100,yes,yes,always,1,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,38.7531484
+707,"1,557",male,20,1.611434,103,yes,yes,always,1,sometimes,no,less than a liter,no,0,>5,no,public_transportation,obesity_type_ii,39.73302259
+708,"1,558",male,29,1.762887,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.65070418
+709,"1,559",male,27,1.755938,112,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.41780333
+710,"1,560",male,26,1.787052,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.14413448
+711,"1,561",male,25,1.765258,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.68967917
+712,"1,562",male,31,1.726279,111,yes,yes,sometimes,4,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,automobile,obesity_type_ii,37.15209905
+713,"1,563",male,41,1.735851,110,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,automobile,obesity_type_ii,36.46957089
+714,"1,564",male,34,1.699793,104,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.94012634
+715,"1,565",male,30,1.703202,103,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_ii,35.51811668
+716,"1,566",male,31,1.906821,129,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,35.4394583
+717,"1,567",male,29,1.910987,130,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.58057084
+718,"1,568",male,31,1.784049,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,37.90467803
+719,"1,569",male,31,1.783914,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,automobile,obesity_type_ii,37.88069315
+720,"1,570",male,27,1.863883,120,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.60003616
+721,"1,571",male,27,1.812259,118,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.01323894
+722,"1,572",male,37,1.75015,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.59144608
+723,"1,573",male,29,1.815347,120,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,36.53476434
+724,"1,574",male,26,1.767077,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.55113366
+725,"1,575",male,25,1.762461,116,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_ii,37.19305389
+726,"1,576",male,30,1.779049,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,35.52542271
+727,"1,577",male,27,1.780731,113,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,automobile,obesity_type_ii,35.62214409
+728,"1,578",male,26,1.872517,121,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,34.4801387
+729,"1,579",male,28,1.801224,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.69402391
+730,"1,580",male,23,1.876898,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.42707152
+731,"1,581",male,24,1.77558,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,38.24975993
+732,"1,582",male,32,1.76569,120,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.51699534
+733,"1,583",male,30,1.759772,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.2273498
+734,"1,584",male,31,1.823545,126,yes,yes,always,3,sometimes,yes,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,38.02974576
+735,"1,585",male,31,1.868923,125,yes,yes,sometimes,3,sometimes,yes,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.80555536
+736,"1,586",male,25,1.77151,113,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.07335543
+737,"1,587",male,26,1.77219,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.32922717
+738,"1,588",male,25,1.858265,118,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.04850948
+739,"1,589",male,25,1.830596,118,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.33908334
+740,"1,590",male,39,1.765836,119,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.01363887
+741,"1,591",male,39,1.770278,117,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,37.42699877
+742,"1,592",male,26,1.673491,104,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,37.03035533
+743,"1,593",male,32,1.703346,103,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.39211347
+744,"1,594",male,23,1.842906,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.66894707
+745,"1,595",male,24,1.779547,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,37.49542211
+746,"1,596",male,24,1.873368,122,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.71416269
+747,"1,597",male,23,1.755902,120,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,38.9275684
+748,"1,598",male,24,1.617655,101,yes,yes,always,2,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,38.57423571
+749,"1,599",male,31,1.644517,100,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,3 to 5,no,public_transportation,obesity_type_ii,36.97791775
+750,"1,600",male,20,1.701284,105,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,36.13164675
+751,"1,601",male,25,1.65891,105,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_ii,37.99035722
+752,"1,602",male,30,1.759324,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,36.18493907
+753,"1,603",male,30,1.758382,112,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.25617803
+754,"1,604",male,24,1.622297,100,yes,yes,always,4,sometimes,no,less than a liter,no,2 to 4,3 to 5,no,public_transportation,obesity_type_ii,37.98948794
+755,"1,605",male,25,1.623278,98,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,37.0329388
+756,"1,606",male,30,1.918859,130,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.30443286
+757,"1,607",male,30,1.913252,129,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.30420526
+758,"1,608",male,37,1.75,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,38.55471347
+759,"1,609",male,39,1.75,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,38.86664588
+760,"1,610",male,23,1.784994,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.68965954
+761,"1,611",male,23,1.792533,116,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,36.15046863
+762,"1,612",male,25,1.829757,121,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,36.13504245
+763,"1,613",male,25,1.796415,121,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,37.49130709
+764,"1,614",male,32,1.75,120,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_ii,39.18367347
+765,"1,615",male,32,1.762389,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_ii,38.16746973
+766,"1,616",male,23,1.825718,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.3720251
+767,"1,617",male,23,1.839699,120,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,35.58334202
+768,"1,618",male,41,1.749405,110,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,automobile,obesity_type_ii,35.91299758
+769,"1,619",male,41,1.75,116,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,automobile,obesity_type_ii,37.8145231
+770,"1,620",male,22,1.849998,122,yes,yes,always,2,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_ii,35.68150359
+771,"1,621",male,22,1.84998,123,yes,yes,always,2,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_ii,35.82543815
+772,"1,622",male,24,1.607939,101,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,38.91684047
+773,"1,623",male,24,1.603226,100,yes,yes,always,1,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,38.75198407
+774,"1,624",male,30,1.770663,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,35.87312308
+775,"1,625",male,29,1.758038,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.36567636
+776,"1,626",male,25,1.786997,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.02018658
+777,"1,627",male,25,1.771837,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.60121756
+778,"1,628",male,40,1.722396,109,yes,yes,sometimes,4,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,automobile,obesity_type_ii,36.85945407
+779,"1,629",male,34,1.701387,107,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,obesity_type_ii,36.97266028
+780,"1,630",male,33,1.697421,103,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.75463782
+781,"1,631",male,30,1.696365,103,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,35.72909578
+782,"1,632",male,30,1.909198,130,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,35.57690385
+783,"1,633",male,29,1.909105,130,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.63407384
+784,"1,634",male,30,1.801368,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,37.31802573
+785,"1,635",male,30,1.860292,124,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,35.75052471
+786,"1,636",male,27,1.819535,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.74241604
+787,"1,637",male,27,1.793174,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.7488958
+788,"1,638",male,33,1.75015,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.62181475
+789,"1,639",male,32,1.754956,120,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.99475955
+790,"1,640",male,26,1.773115,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.60675236
+791,"1,641",male,26,1.772731,116,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,public_transportation,obesity_type_ii,36.85772326
+792,"1,642",male,30,1.787933,113,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,35.20387014
+793,"1,643",male,27,1.785277,113,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,automobile,obesity_type_ii,35.37283602
+794,"1,644",male,28,1.817572,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.57130742
+795,"1,645",male,27,1.84342,120,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,35.43655518
+796,"1,646",male,25,1.874519,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.50515903
+797,"1,647",male,25,1.796332,121,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,37.46785259
+798,"1,648",male,30,1.756221,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.62031929
+799,"1,649",male,31,1.757132,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.40164338
+800,"1,650",male,31,1.889104,129,yes,yes,always,3,sometimes,yes,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.19156615
+801,"1,651",male,31,1.869323,128,yes,yes,always,3,sometimes,yes,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.48940053
+802,"1,652",male,25,1.757154,112,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.33928257
+803,"1,653",male,25,1.764484,113,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.36995288
+804,"1,654",male,24,1.774775,117,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,37.27157144
+805,"1,655",male,25,1.769933,118,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,37.57464866
+806,"1,656",male,40,1.760175,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,37.97380326
+807,"1,657",male,40,1.763029,117,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,37.6332998
+808,"1,658",male,27,1.679515,103,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,36.46975075
+809,"1,659",male,30,1.699354,100,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,34.68963455
+810,"1,660",male,23,1.849307,122,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.57338952
+811,"1,661",male,24,1.86741,122,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.89435918
+812,"1,662",male,23,1.86714,122,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.94792936
+813,"1,663",male,23,1.848553,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.53288125
+814,"1,664",male,24,1.61981,99,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,3 to 5,no,public_transportation,obesity_type_ii,37.55758996
+815,"1,665",male,27,1.647807,100,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,36.6785998
+816,"1,666",male,20,1.619128,104,yes,yes,always,2,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,39.78665187
+817,"1,667",male,23,1.64187,104,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_ii,38.6796109
+818,"1,668",male,28,1.787379,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,35.11218556
+819,"1,669",male,30,1.758355,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,36.22700537
+820,"1,670",male,25,1.76414,113,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.33766518
+821,"1,671",male,25,1.767186,112,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.93594609
+822,"1,672",male,32,1.67782,102,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,36.24126445
+823,"1,673",male,31,1.668478,101,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,36.11728669
+824,"1,674",male,28,1.685462,100,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.03968859
+825,"1,675",male,28,1.694642,100,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,public_transportation,obesity_type_ii,34.72001164
+826,"1,676",male,31,1.886109,129,yes,yes,sometimes,3,sometimes,yes,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.36060344
+827,"1,677",male,31,1.915,130,yes,yes,sometimes,3,sometimes,yes,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.43999291
+828,"1,678",male,30,1.841908,124,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.57071267
+829,"1,679",male,31,1.868127,123,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.29392457
+830,"1,680",male,32,1.751688,119,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,38.8492004
+831,"1,681",male,31,1.755333,118,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,38.37401484
+832,"1,682",male,38,1.754217,118,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.31217962
+833,"1,683",male,38,1.76071,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.27887595
+834,"1,684",male,22,1.755938,116,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,37.7229829
+835,"1,685",male,23,1.765137,117,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,37.44570494
+836,"1,686",male,25,1.788239,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.08185788
+837,"1,687",male,24,1.767121,116,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,37.19977341
+838,"1,688",male,24,1.840039,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,35.73084855
+839,"1,689",male,24,1.824901,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,36.27512033
+840,"1,690",male,25,1.828391,121,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.19436793
+841,"1,691",male,25,1.829529,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.14885143
+842,"1,692",male,31,1.779325,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,38.14016205
+843,"1,693",male,31,1.781139,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,38.07602998
+844,"1,694",male,31,1.764166,119,yes,yes,always,3,sometimes,no,more than 2 l,no,0,>5,sometimes,automobile,obesity_type_ii,38.35546761
+845,"1,695",male,31,1.754796,119,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_ii,38.58201205
+846,"1,696",male,25,1.756509,117,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,38.04097108
+847,"1,697",male,24,1.756772,117,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,38.01591069
+848,"1,698",male,23,1.754439,119,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,38.80410202
+849,"1,699",male,23,1.755142,119,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,38.69242495
+850,"1,700",male,40,1.706741,108,yes,yes,sometimes,4,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,obesity_type_ii,37.07995424
+851,"1,701",male,37,1.74285,106,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,automobile,obesity_type_ii,35.03543269
+852,"1,702",male,34,1.6811,103,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,36.27727689
+853,"1,703",male,34,1.705682,103,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,public_transportation,obesity_type_ii,35.42637619
+854,"1,704",male,23,1.849507,122,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.53710814
+855,"1,705",male,23,1.853373,122,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_ii,35.44050598
+856,"1,706",male,23,1.84753,122,yes,yes,always,2,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.7601765
+857,"1,707",male,22,1.87034,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.72048884
+858,"1,708",male,24,1.607787,101,yes,yes,always,1,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,38.98810495
+859,"1,709",male,24,1.603091,100,yes,yes,always,1,sometimes,no,less than a liter,no,0,>5,no,public_transportation,obesity_type_ii,38.99349219
+860,"1,710",male,20,1.620109,103,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,39.39164837
+861,"1,711",male,23,1.610647,101,yes,yes,always,1,sometimes,no,less than a liter,no,1 to 2,>5,no,public_transportation,obesity_type_ii,38.79534619
+862,"1,712",male,29,1.758618,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.69938281
+863,"1,713",male,30,1.763259,113,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.41454392
+864,"1,714",male,27,1.764138,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.09145645
+865,"1,715",male,25,1.75596,112,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,36.41361162
+866,"1,716",male,26,1.783381,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.26758984
+867,"1,717",male,26,1.786532,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.88520239
+868,"1,718",male,26,1.766626,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.58708358
+869,"1,719",male,26,1.765464,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.62155605
+870,"1,720",male,30,1.75853,112,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,36.09961869
+871,"1,721",male,30,1.758539,112,yes,yes,never,4,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,36.20109369
+872,"1,722",male,41,1.748015,110,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,no,automobile,obesity_type_ii,35.92103047
+873,"1,723",male,41,1.744974,111,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,no,automobile,obesity_type_ii,36.50971367
+874,"1,724",male,30,1.701566,104,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.83137217
+875,"1,725",male,33,1.696412,103,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.87805421
+876,"1,726",male,31,1.680489,102,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,36.12003922
+877,"1,727",male,30,1.703317,103,yes,yes,always,1,sometimes,no,less than a liter,no,0,0 to 2,no,public_transportation,obesity_type_ii,35.36089579
+878,"1,728",male,31,1.877732,127,yes,yes,always,3,sometimes,yes,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.06517308
+879,"1,729",male,31,1.909639,129,yes,yes,sometimes,3,sometimes,yes,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,35.37785701
+880,"1,730",male,30,1.909188,129,yes,yes,sometimes,3,sometimes,no,less than a liter,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,35.44431601
+881,"1,731",male,31,1.910672,129,yes,yes,sometimes,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.39974766
+882,"1,732",male,31,1.779136,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.10065114
+883,"1,733",male,32,1.767485,120,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.46284409
+884,"1,734",male,31,1.783953,121,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,37.89913721
+885,"1,735",male,31,1.76714,120,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_ii,38.5375391
+886,"1,736",male,27,1.816197,120,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.26502031
+887,"1,737",male,27,1.839941,120,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.43370281
+888,"1,738",male,26,1.84842,118,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.42889478
+889,"1,739",male,26,1.830317,118,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.15071334
+890,"1,740",male,38,1.750085,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,automobile,obesity_type_ii,38.56415049
+891,"1,741",male,38,1.763582,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,37.89491877
+892,"1,742",male,28,1.816547,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,36.57723076
+893,"1,743",male,28,1.805445,119,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,36.65586388
+894,"1,744",male,25,1.770124,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.43522833
+895,"1,745",male,26,1.77274,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.35652631
+896,"1,746",male,26,1.763215,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,37.02503306
+897,"1,747",male,26,1.766547,115,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.99775139
+898,"1,748",male,30,1.773181,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,35.73238448
+899,"1,749",male,30,1.76003,112,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,automobile,obesity_type_ii,36.28788706
+900,"1,750",male,27,1.780089,113,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,>5,sometimes,automobile,obesity_type_ii,35.70992469
+901,"1,751",male,28,1.766946,113,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,0,>5,sometimes,automobile,obesity_type_ii,36.26905111
+902,"1,752",male,26,1.885119,121,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,34.06757742
+903,"1,753",male,27,1.828276,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.16123447
+904,"1,754",male,28,1.806227,120,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.91193625
+905,"1,755",male,27,1.812919,120,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.46281882
+906,"1,756",male,23,1.859717,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.06805655
+907,"1,757",male,23,1.86516,122,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.93348469
+908,"1,758",male,24,1.783609,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,38.01056642
+909,"1,759",male,24,1.794827,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,37.53633649
+910,"1,760",male,31,1.759647,120,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.75824723
+911,"1,761",male,31,1.773521,120,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.21790553
+912,"1,762",male,32,1.753327,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.47095157
+913,"1,763",male,30,1.761068,118,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.16732301
+914,"1,764",male,31,1.848845,125,yes,yes,sometimes,3,sometimes,yes,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.59143541
+915,"1,765",male,31,1.842812,126,yes,yes,sometimes,3,sometimes,yes,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,37.09527582
+916,"1,766",male,31,1.825449,125,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,37.49786273
+917,"1,767",male,31,1.86198,126,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_ii,36.46366438
+918,"1,768",male,25,1.763987,113,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.33752577
+919,"1,769",male,25,1.761519,113,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.36385522
+920,"1,770",male,25,1.772045,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.32570825
+921,"1,771",male,25,1.771817,114,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.31495668
+922,"1,772",male,26,1.79858,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.4566614
+923,"1,773",male,25,1.788586,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.83897527
+924,"1,774",male,25,1.803207,118,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.39272544
+925,"1,775",male,25,1.836592,118,yes,yes,sometimes,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.09491202
+926,"1,776",male,37,1.762921,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,38.09714075
+927,"1,777",male,38,1.752863,119,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,automobile,obesity_type_ii,38.79588338
+928,"1,778",male,39,1.768235,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,37.67357365
+929,"1,779",male,38,1.766888,118,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,automobile,obesity_type_ii,37.84078771
+930,"1,780",male,25,1.603501,101,yes,yes,always,1,sometimes,no,less than a liter,no,0,>5,no,public_transportation,obesity_type_ii,39.29591459
+931,"1,781",male,27,1.690262,103,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,36.11530872
+932,"1,782",male,34,1.712905,103,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.19923465
+933,"1,783",male,33,1.695735,103,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,35.74482683
+934,"1,784",male,24,1.829971,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.14487037
+935,"1,785",male,23,1.84629,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.56926361
+936,"1,786",male,24,1.774983,119,yes,yes,sometimes,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_ii,37.79697204
+937,"1,787",male,25,1.78968,118,yes,yes,never,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.97716153
+938,"1,788",male,25,1.852664,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,35.34306404
+939,"1,789",male,24,1.872561,121,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,34.6418386
+940,"1,790",male,23,1.81955,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,0 to 2,sometimes,public_transportation,obesity_type_ii,36.47964777
+941,"1,791",male,23,1.815514,120,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_ii,36.50920467
+942,"1,792",male,24,1.614075,100,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,38.47836472
+943,"1,793",male,24,1.609418,100,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,38.63692028
+944,"1,794",male,31,1.650189,101,yes,yes,always,2,sometimes,no,less than a liter,no,2 to 4,0 to 2,no,public_transportation,obesity_type_ii,37.14163836
+945,"1,795",male,31,1.653876,103,yes,yes,always,2,sometimes,no,less than a liter,no,1 to 2,3 to 5,no,public_transportation,obesity_type_ii,37.50362907
+946,"1,796",male,20,1.657132,106,yes,yes,always,1,sometimes,no,between 1 and 2 l,no,0,3 to 5,no,public_transportation,obesity_type_ii,38.44762076
+947,"1,797",male,21,1.644751,101,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,37.36055351
+948,"1,798",male,26,1.660761,104,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,37.82329793
+949,"1,799",male,27,1.69151,103,yes,yes,always,1,sometimes,no,less than a liter,no,0,3 to 5,no,public_transportation,obesity_type_ii,35.8573193
+950,"1,800",female,26,1.611462,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.31486391
+951,"1,801",female,26,1.584782,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,41.82925556
+952,"1,802",female,18,1.792378,138,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,42.91194863
+953,"1,803",female,18,1.802257,150,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.16066304
+954,"1,804",female,26,1.65632,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.80089508
+955,"1,805",female,26,1.600762,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.15152197
+956,"1,806",female,26,1.678658,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.24585919
+957,"1,807",female,26,1.678201,110,yes,yes,always,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,39.02218707
+958,"1,808",female,22,1.65563,121,yes,yes,always,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,44.21753968
+959,"1,809",female,21,1.694952,134,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.56148359
+960,"1,810",female,26,1.622771,110,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.75602276
+961,"1,811",female,26,1.583889,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,44.06472902
+962,"1,812",female,21,1.729045,132,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.99565696
+963,"1,813",female,23,1.664622,114,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,41.30884621
+964,"1,814",female,21,1.747773,128,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,41.87069305
+965,"1,815",female,21,1.730113,152,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,50.81175281
+966,"1,816",female,19,1.746652,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.8574888
+967,"1,817",female,24,1.719365,115,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.7358491
+968,"1,818",female,26,1.632377,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.01169339
+969,"1,819",female,26,1.642572,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.46271143
+970,"1,820",female,26,1.654875,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.25249473
+971,"1,821",female,26,1.627567,107,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.57519939
+972,"1,822",female,21,1.736276,131,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.43023209
+973,"1,823",female,24,1.737056,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.92145956
+974,"1,824",female,26,1.580968,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.81016918
+975,"1,825",female,26,1.607128,103,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.88866671
+976,"1,826",female,18,1.821566,142,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,42.82642256
+977,"1,827",female,18,1.82773,153,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,45.71654323
+978,"1,828",female,26,1.656504,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.81371335
+979,"1,829",female,26,1.637725,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.46272429
+980,"1,830",female,26,1.669701,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.51416097
+981,"1,831",female,26,1.668709,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.61953045
+982,"1,832",female,21,1.668642,125,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_iii,44.78749397
+983,"1,833",female,21,1.690614,130,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,45.40278652
+984,"1,834",female,26,1.622418,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.04644561
+985,"1,835",female,26,1.643332,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.0379759
+986,"1,836",female,22,1.733383,136,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,45.10554055
+987,"1,837",female,21,1.748313,134,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.70014372
+988,"1,838",female,21,1.812963,139,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,42.20796778
+989,"1,839",female,21,1.80734,156,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,47.71870465
+990,"1,840",female,18,1.745644,134,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.86400172
+991,"1,841",female,21,1.753266,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.54423295
+992,"1,842",female,26,1.632193,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.99862745
+993,"1,843",female,26,1.641098,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.51872685
+994,"1,844",female,26,1.640741,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.9328878
+995,"1,845",female,26,1.618573,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.05248564
+996,"1,846",female,23,1.757442,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.17975493
+997,"1,847",female,20,1.763343,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.0802083
+998,"1,848",female,26,1.610086,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.49558759
+999,"1,849",female,26,1.664463,103,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.09955075
+1000,"1,850",female,26,1.602025,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.87278311
+1001,"1,851",female,26,1.632896,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.37553236
+1002,"1,852",female,18,1.771043,137,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.69229465
+1003,"1,853",female,22,1.789555,138,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.01872963
+1004,"1,854",female,18,1.801746,141,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.48543222
+1005,"1,855",female,20,1.787195,152,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,47.58069042
+1006,"1,856",female,26,1.644141,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.41112733
+1007,"1,857",female,26,1.643355,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.32411539
+1008,"1,858",female,26,1.623707,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,39.84087772
+1009,"1,859",female,26,1.610636,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.63897619
+1010,"1,860",female,26,1.629491,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.48382508
+1011,"1,861",female,25,1.684768,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,36.92910765
+1012,"1,862",female,26,1.66494,111,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.01484902
+1013,"1,863",female,26,1.655646,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.20823014
+1014,"1,864",female,19,1.666194,125,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.95560768
+1015,"1,865",female,21,1.707508,122,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,41.79757605
+1016,"1,866",female,22,1.754174,134,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.47691211
+1017,"1,867",female,21,1.714193,132,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.87617318
+1018,"1,868",female,26,1.62439,110,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.69136989
+1019,"1,869",female,26,1.638836,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.31773156
+1020,"1,870",female,26,1.621245,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.33215552
+1021,"1,871",female,26,1.623514,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.72556363
+1022,"1,872",female,21,1.736215,132,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.83747504
+1023,"1,873",female,22,1.732951,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.25561443
+1024,"1,874",female,24,1.69135,114,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.01891277
+1025,"1,875",female,24,1.635062,113,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.3715914
+1026,"1,876",female,18,1.746061,128,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,42.07045012
+1027,"1,877",female,20,1.746529,129,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.40929613
+1028,"1,878",female,21,1.746516,144,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,47.30728221
+1029,"1,879",female,21,1.751118,149,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,48.68588972
+1030,"1,880",female,19,1.741014,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.7392263
+1031,"1,881",female,22,1.748533,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.81091685
+1032,"1,882",female,24,1.694726,113,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,39.2663071
+1033,"1,883",female,26,1.674515,113,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.25664853
+1034,"1,884",female,26,1.631332,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.02168348
+1035,"1,885",female,26,1.641918,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.49605295
+1036,"1,886",female,26,1.640125,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.46434153
+1037,"1,887",female,26,1.649178,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.14819166
+1038,"1,888",female,26,1.603404,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.85407008
+1039,"1,889",female,26,1.644199,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.85346226
+1040,"1,890",female,26,1.628909,107,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.27970201
+1041,"1,891",female,26,1.628019,108,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.84819217
+1042,"1,892",female,21,1.71818,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,45.2101355
+1043,"1,893",female,21,1.708581,131,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.96870582
+1044,"1,894",female,23,1.724983,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.6774309
+1045,"1,895",female,23,1.739991,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.08999171
+1046,"1,896",female,26,1.568543,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,41.45795095
+1047,"1,897",female,26,1.579893,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.91831471
+1048,"1,898",female,20,1.782714,155,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,48.65169258
+1049,"1,899",female,19,1.793824,161,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,50.01402318
+1050,"1,900",female,26,1.659557,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.66587958
+1051,"1,901",female,26,1.65782,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.73549995
+1052,"1,902",female,26,1.684082,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,36.87852514
+1053,"1,903",female,25,1.68395,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,36.97403653
+1054,"1,904",female,19,1.716521,128,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.32079928
+1055,"1,905",female,20,1.680762,125,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.39656066
+1056,"1,906",female,26,1.623303,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.0541645
+1057,"1,907",female,26,1.631856,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.60955721
+1058,"1,908",female,22,1.747479,137,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.70557503
+1059,"1,909",female,21,1.782453,138,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.38892039
+1060,"1,910",female,22,1.809871,152,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,46.52375199
+1061,"1,911",female,22,1.803677,161,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,49.37812017
+1062,"1,912",female,18,1.745602,134,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.82971725
+1063,"1,913",female,20,1.751038,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.65204835
+1064,"1,914",female,26,1.631547,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.91994925
+1065,"1,915",female,26,1.635905,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.69034239
+1066,"1,916",female,26,1.616975,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.1001649
+1067,"1,917",female,26,1.62788,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,39.59276811
+1068,"1,918",female,22,1.76416,134,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.01973718
+1069,"1,919",female,21,1.763847,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.0508347
+1070,"1,920",female,26,1.608808,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.44110659
+1071,"1,921",female,26,1.610488,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.39394373
+1072,"1,922",female,26,1.621231,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.94338503
+1073,"1,923",female,26,1.642392,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.92121238
+1074,"1,924",female,19,1.801983,138,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.5095345
+1075,"1,925",female,22,1.787614,138,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.14051043
+1076,"1,926",female,20,1.801478,151,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.65707935
+1077,"1,927",female,18,1.807576,153,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.69489293
+1078,"1,928",female,26,1.650125,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.11027084
+1079,"1,929",female,26,1.652674,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.97604452
+1080,"1,930",female,26,1.663632,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,37.98214911
+1081,"1,931",female,26,1.627818,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.78751926
+1082,"1,932",female,26,1.66877,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.62366978
+1083,"1,933",female,26,1.642098,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.92724241
+1084,"1,934",female,26,1.65757,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.01080997
+1085,"1,935",female,26,1.643111,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.71021998
+1086,"1,936",female,21,1.675562,122,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.32638672
+1087,"1,937",female,23,1.661415,121,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,43.74460082
+1088,"1,938",female,21,1.713133,134,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,45.5686127
+1089,"1,939",female,21,1.7199,134,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,45.26149287
+1090,"1,940",female,26,1.622701,110,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.76835178
+1091,"1,941",female,26,1.622468,110,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.93919841
+1092,"1,942",female,26,1.618867,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.26966365
+1093,"1,943",female,26,1.600905,110,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.9494255
+1094,"1,944",female,21,1.730636,132,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.03944727
+1095,"1,945",female,21,1.729719,132,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.07778729
+1096,"1,946",female,23,1.677672,114,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.67048944
+1097,"1,947",female,24,1.637524,114,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,42.47835298
+1098,"1,948",female,21,1.738717,128,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.37789065
+1099,"1,949",female,21,1.741193,129,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.471745
+1100,"1,950",female,20,1.792833,152,yes,yes,always,3,sometimes,no,between 1 and 2 l,,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,47.42494272
+1101,"1,951",female,20,1.810427,152,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.44099412
+1102,"1,952",female,19,1.743589,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.8410641
+1103,"1,953",female,20,1.747962,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.83642061
+1104,"1,954",female,24,1.71146,113,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,38.70575661
+1105,"1,955",female,25,1.685482,113,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,39.93566752
+1106,"1,956",female,26,1.639251,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.65277619
+1107,"1,957",female,26,1.654784,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.87672632
+1108,"1,958",female,26,1.641209,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.52727323
+1109,"1,959",female,26,1.643167,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.44234096
+1110,"1,960",female,26,1.63073,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.40560448
+1111,"1,961",female,26,1.649867,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.49694422
+1112,"1,962",female,26,1.613574,107,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,41.10131767
+1113,"1,963",female,26,1.627532,107,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.27789821
+1114,"1,964",female,21,1.726606,132,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.20014493
+1115,"1,965",female,21,1.721476,131,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.21905694
+1116,"1,966",female,24,1.742901,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.71956733
+1117,"1,967",female,24,1.737313,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.12037107
+1118,"1,968",female,26,1.62414,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.7566357
+1119,"1,969",female,26,1.644078,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.83871621
+1120,"1,970",female,26,1.592529,103,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.56329679
+1121,"1,971",female,26,1.607734,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.57962938
+1122,"1,972",female,19,1.817271,142,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,42.97317915
+1123,"1,973",female,18,1.808765,140,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,42.88137186
+1124,"1,974",female,20,1.817231,152,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.14074907
+1125,"1,975",female,18,1.819728,151,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,45.68402351
+1126,"1,976",female,26,1.656465,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.79993408
+1127,"1,977",female,26,1.648143,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.21304998
+1128,"1,978",female,26,1.622703,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.23669648
+1129,"1,979",female,26,1.640606,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.25329696
+1130,"1,980",female,25,1.683502,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,36.9629595
+1131,"1,981",female,26,1.669039,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.54684999
+1132,"1,982",female,25,1.673665,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.37912557
+1133,"1,983",female,26,1.668931,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.61431942
+1134,"1,984",female,21,1.700996,126,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.7170067
+1135,"1,985",female,21,1.734092,125,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,0 to 2,sometimes,public_transportation,obesity_type_iii,41.60775182
+1136,"1,986",female,21,1.708291,131,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.88511012
+1137,"1,987",female,21,1.716497,131,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.41787166
+1138,"1,988",female,26,1.62495,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.03995319
+1139,"1,989",female,26,1.594776,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,43.50272192
+1140,"1,990",female,26,1.626503,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.88934188
+1141,"1,991",female,26,1.624576,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.98284945
+1142,"1,992",female,22,1.729099,135,yes,yes,always,3,sometimes,no,less than a liter,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,45.10114618
+1143,"1,993",female,22,1.73581,135,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.92035973
+1144,"1,994",female,21,1.748524,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.78937584
+1145,"1,995",female,21,1.748951,134,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.69729618
+1146,"1,996",female,20,1.777971,138,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.58656855
+1147,"1,997",female,21,1.73995,136,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.82137
+1148,"1,998",female,20,1.816868,154,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.64026352
+1149,"1,999",female,21,1.8002,155,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,47.90375907
+1150,"2,000",female,21,1.74647,134,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.81567598
+1151,"2,001",female,19,1.759091,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.27286789
+1152,"2,002",female,21,1.752531,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.50466652
+1153,"2,003",female,21,1.761773,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.14117093
+1154,"2,004",female,26,1.633195,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.94603541
+1155,"2,005",female,26,1.633945,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.92512367
+1156,"2,006",female,26,1.641601,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.49795518
+1157,"2,007",female,26,1.641132,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.52568025
+1158,"2,008",female,26,1.638218,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.0534525
+1159,"2,009",female,26,1.627483,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,39.59752247
+1160,"2,010",female,26,1.610225,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.47184025
+1161,"2,011",female,26,1.61739,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.14368947
+1162,"2,012",female,23,1.744319,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.86062931
+1163,"2,013",female,23,1.755467,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.3138052
+1164,"2,014",female,19,1.746416,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.85192728
+1165,"2,015",female,19,1.746411,134,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.82911276
+1166,"2,016",female,26,1.611452,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.41929838
+1167,"2,017",female,26,1.596813,102,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.1286239
+1168,"2,018",female,26,1.610126,103,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.60913435
+1169,"2,019",female,26,1.623113,103,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,38.92801445
+1170,"2,020",female,26,1.618348,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.07018194
+1171,"2,021",female,26,1.609401,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.4818464
+1172,"2,022",female,26,1.621671,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.04612249
+1173,"2,023",female,26,1.614484,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.28277114
+1174,"2,024",female,19,1.789143,138,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.1744637
+1175,"2,025",female,20,1.774207,138,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.88547625
+1176,"2,026",female,21,1.792933,138,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.87688644
+1177,"2,027",female,22,1.758959,138,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.5364597
+1178,"2,028",female,18,1.807406,142,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.40732697
+1179,"2,029",female,19,1.75091,143,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,46.49699643
+1180,"2,030",female,20,1.805803,153,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,46.96505306
+1181,"2,031",female,21,1.796538,152,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,47.2413231
+1182,"2,032",female,26,1.634894,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.88230986
+1183,"2,033",female,26,1.639524,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.6458207
+1184,"2,034",female,26,1.643017,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.38545537
+1185,"2,035",female,26,1.641849,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.43043107
+1186,"2,036",female,26,1.621167,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,39.93166583
+1187,"2,037",female,26,1.638075,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.14468191
+1188,"2,038",female,26,1.60937,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.6966761
+1189,"2,039",female,26,1.608283,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.73329413
+1190,"2,040",female,26,1.629442,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.48479796
+1191,"2,041",female,26,1.629225,105,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.49647677
+1192,"2,042",female,25,1.680218,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,37.12446475
+1193,"2,043",female,150,1.686033,105,yes,yes,always,3,sometimes,no,less than a liter,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,36.856473
+1194,"2,044",female,26,1.662978,111,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.11234002
+1195,"2,045",female,26,1.675185,111,yes,yes,always,3,sometimes,no,less than a liter,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,39.41984093
+1196,"2,046",female,26,1.62456,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.71949474
+1197,"2,047",female,26,1.626179,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.62441346
+1198,"2,048",female,19,1.682594,127,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,45.00951651
+1199,"2,049",female,19,1.669354,126,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,45.24576219
+1200,"2,050",female,21,1.68838,122,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.7589446
+1201,"2,051",female,21,1.694439,123,yes,yes,always,3,sometimes,no,less than a liter,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.77525225
+1202,"2,052",female,22,1.755476,134,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.44052807
+1203,"2,053",female,22,1.748106,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.60749409
+1204,"2,054",female,21,1.719913,132,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.47701181
+1205,"2,055",female,21,1.723587,132,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.40953183
+1206,"2,056",female,26,1.623812,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.71654464
+1207,"2,057",female,26,1.624099,110,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.69484917
+1208,"2,058",female,26,1.632983,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.68469792
+1209,"2,059",female,26,1.640745,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.2027588
+1210,"2,060",female,26,1.629727,111,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.89579182
+1211,"2,061",female,26,1.624134,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.28172429
+1212,"2,062",female,26,1.623938,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.70533943
+1213,"2,063",female,26,1.593321,110,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,43.39598589
+1214,"2,064",female,21,1.730333,132,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.12631383
+1215,"2,065",female,21,1.721057,132,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.58242223
+1216,"2,066",female,22,1.71978,132,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.71890181
+1217,"2,067",female,22,1.699315,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.09513631
+1218,"2,068",female,24,1.681394,114,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.4938045
+1219,"2,069",female,24,1.697421,114,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.73374777
+1220,"2,070",female,24,1.650726,114,yes,yes,always,3,sometimes,no,more than 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,41.75358779
+1221,"2,071",female,25,1.667383,113,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.63877704
+1222,"2,072",female,19,1.746277,129,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,42.20575939
+1223,"2,073",female,18,1.735461,127,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,42.1001147
+1224,"2,074",female,20,1.747714,128,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,41.95381591
+1225,"2,075",female,20,1.71582,129,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.9758349
+1226,"2,076",female,21,1.747987,147,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,48.20755493
+1227,"2,077",female,20,1.817917,143,yes,yes,always,3,sometimes,no,more than 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.13671101
+1228,"2,078",female,19,1.80835,151,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,46.02767865
+1229,"2,079",female,21,1.739457,150,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,49.69991752
+1230,"2,080",female,19,1.742062,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.08224599
+1231,"2,081",female,18,1.741925,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,43.83778347
+1232,"2,082",female,22,1.751067,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.65126487
+1233,"2,083",female,22,1.749118,134,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.78456159
+1234,"2,084",female,24,1.663341,113,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.8707315
+1235,"2,085",female,25,1.668537,113,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.42917401
+1236,"2,086",female,26,1.668951,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.29934736
+1237,"2,087",female,26,1.661712,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.59651362
+1238,"2,088",female,26,1.633442,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.91013969
+1239,"2,089",female,26,1.63302,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.94731594
+1240,"2,090",female,26,1.633887,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.90840882
+1241,"2,091",female,26,1.643421,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.44647236
+1242,"2,092",female,26,1.640535,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.44973942
+1243,"2,093",female,26,1.626483,111,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,42.09385565
+1244,"2,094",female,26,1.64599,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.31074077
+1245,"2,095",female,26,1.643892,112,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,41.40220747
+1246,"2,096",female,26,1.617817,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.09838347
+1247,"2,097",female,26,1.626449,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.64698176
+1248,"2,098",female,26,1.62658,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,39.70016324
+1249,"2,099",female,26,1.606474,105,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,3 to 5,sometimes,public_transportation,obesity_type_iii,40.66799832
+1250,"2,100",female,26,1.628855,108,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.73996864
+1251,"2,101",female,26,1.628205,107,yes,yes,always,3,sometimes,no,more than 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.50419281
+1252,"2,102",female,26,1.62847,107,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.43077081
+1253,"2,103",female,26,1.627839,108,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,0,0 to 2,sometimes,public_transportation,obesity_type_iii,40.79738845
+1254,"2,104",female,21,1.724268,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.74572565
+1255,"2,105",female,22,1.732383,133,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.3309741
+1256,"2,106",female,21,1.72692,131,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.0391207
+1257,"2,107",female,21,1.71073,131,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,2 to 4,3 to 5,sometimes,public_transportation,obesity_type_iii,44.901475
+1258,"2,108",female,22,1.748584,134,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.74192335
+1259,"2,109",female,23,1.752206,134,yes,yes,always,3,sometimes,no,between 1 and 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,43.54381658
+1260,"2,110",female,24,1.73945,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.0715354
+1261,"2,111",female,24,1.738836,133,yes,yes,always,3,sometimes,no,more than 2 l,no,1 to 2,3 to 5,sometimes,public_transportation,obesity_type_iii,44.14433794
