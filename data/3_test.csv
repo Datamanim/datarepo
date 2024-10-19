@@ -151,7 +151,7 @@
 149,574,29,Private Sector/Self Employed,Yes,1150000,5,0.0,Yes,No
 150,577,27,Government Sector,Yes,500000,3,0.0,No,No
 151,580,31,Private Sector/Self Employed,Yes,1250000,4,0.0,No,No
-152,585,34,Private Sector/Self Employed,No,1400000,7,0.0,No,Yes
+152,585,34,Private Sector/Self Employed,No,1400000,7,,No,Yes
 153,586,28,Government Sector,Yes,300000,7,0.0,No,No
 154,594,33,Private Sector/Self Employed,Yes,550000,5,0.0,Yes,No
 155,596,31,Private Sector/Self Employed,Yes,1350000,5,0.0,No,Yes
@@ -248,7 +248,7 @@
 246,975,30,Private Sector/Self Employed,No,1450000,3,1.0,Yes,Yes
 247,979,30,Private Sector/Self Employed,No,650000,4,0.0,No,No
 248,981,27,Government Sector,Yes,750000,3,0.0,No,No
-249,988,31,Private Sector/Self Employed,Yes,1750000,7,0.0,No,No
+249,988,31,Private Sector/Self Employed,Yes,1750000,7,,No,No
 250,993,34,Private Sector/Self Employed,Yes,700000,2,0.0,Yes,No
 251,994,28,Private Sector/Self Employed,Yes,550000,6,1.0,No,No
 252,997,28,Private Sector/Self Employed,Yes,700000,4,1.0,No,No
@@ -361,7 +361,7 @@
 359,1430,25,Private Sector/Self Employed,Yes,1400000,6,0.0,No,Yes
 360,1433,31,Private Sector/Self Employed,Yes,1400000,4,0.0,No,Yes
 361,1436,31,Private Sector/Self Employed,Yes,900000,5,0.0,No,No
-362,1442,26,Private Sector/Self Employed,Yes,500000,2,0.0,No,No
+362,1442,26,Private Sector/Self Employed,Yes,500000,2,,No,No
 363,1447,31,Government Sector,No,300000,3,1.0,No,No
 364,1449,29,Private Sector/Self Employed,Yes,1100000,4,1.0,No,No
 365,1454,27,Government Sector,Yes,1050000,7,1.0,No,No
