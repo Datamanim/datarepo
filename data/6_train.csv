@@ -536,7 +536,7 @@ ID_11950,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Female,55-59,163.
 ID_14054,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,178.0,97.52,30.85,No,16.0,8.0,2.0,10.0
 ID_10012,Excellent,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,45-49,170.0,70.31,24.28,No,8.0,30.0,4.0,3.0
 ID_9362,Fair,Within the past year,Yes,Yes,No,No,No,No,No,Male,55-59,173.0,96.62,32.39,Yes,4.0,30.0,4.0,12.0
-ID_7442,Fair,Within the past year,No,No,No,No,No,Yes,Yes,Male,80+,185.0,101.15,29.42,Yes,0.0,60.0,12.0,4.0
+ID_7442,Fair,Within the past year,No,No,,No,No,Yes,Yes,Male,80+,185.0,101.15,29.42,Yes,0.0,60.0,12.0,4.0
 ID_15628,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,175.0,90.72,29.53,Yes,1.0,8.0,8.0,8.0
 ID_3431,Good,Within the past 2 years,Yes,No,No,No,No,No,No,Female,25-29,160.0,45.36,17.71,No,4.0,12.0,4.0,6.0
 ID_4388,Good,Within the past year,Yes,No,No,Yes,Yes,Yes,Yes,Female,75-79,157.0,72.57,29.26,No,3.0,60.0,12.0,1.0
@@ -748,7 +748,7 @@ ID_14835,Excellent,Within the past year,Yes,No,Yes,No,No,No,Yes,Male,70-74,178.0
 ID_7591,Fair,Within the past year,Yes,No,No,No,Yes,Yes,Yes,Female,55-59,178.0,97.52,30.85,Yes,0.0,60.0,30.0,4.0
 ID_5789,Fair,Within the past year,No,No,No,No,No,No,Yes,Male,60-64,170.0,90.72,31.32,Yes,1.0,30.0,1.0,4.0
 ID_14250,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,35-39,160.0,55.79,21.79,No,8.0,20.0,20.0,4.0
-ID_1929,Good,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,178.0,86.64,27.41,No,10.0,30.0,0.0,3.0
+ID_1929,Good,Within the past year,Yes,No,No,No,No,No,No,Male,,178.0,86.64,27.41,No,10.0,30.0,0.0,3.0
 ID_12810,Excellent,Within the past year,Yes,No,No,Yes,No,No,No,Male,60-64,178.0,72.57,22.96,Yes,1.0,30.0,16.0,1.0
 ID_1753,Good,Within the past year,Yes,No,No,No,No,No,No,Male,35-39,180.0,72.57,22.32,Yes,0.0,12.0,4.0,12.0
 ID_1207,Good,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,35-39,168.0,74.84,26.63,Yes,1.0,30.0,12.0,4.0
@@ -918,7 +918,7 @@ ID_6143,Fair,Within the past year,Yes,No,No,No,No,No,Yes,Male,70-74,163.0,81.65,
 ID_9190,Fair,Within the past year,No,Yes,No,No,Yes,No,Yes,Female,50-54,165.0,99.79,36.61,No,3.0,4.0,45.0,7.0
 ID_4471,Good,Within the past 2 years,Yes,No,No,No,No,No,No,Female,25-29,175.0,90.72,29.53,Yes,4.0,4.0,8.0,8.0
 ID_14262,Excellent,Within the past 2 years,Yes,No,No,No,No,No,No,Female,35-39,155.0,68.04,28.34,No,0.0,30.0,8.0,2.0
-ID_4060,Good,Within the past year,Yes,No,No,No,No,Yes,No,Female,65-69,185.0,89.36,25.99,No,0.0,2.0,3.0,3.0
+ID_4060,Good,Within the past year,Yes,No,,No,No,Yes,No,Female,65-69,185.0,89.36,25.99,No,0.0,2.0,3.0,3.0
 ID_7257,Fair,Within the past year,No,No,No,No,Yes,Yes,Yes,Male,60-64,175.0,120.2,39.13,Yes,0.0,30.0,8.0,20.0
 ID_9269,Fair,Within the past year,No,Yes,No,No,No,No,Yes,Female,80+,165.0,69.4,25.46,No,0.0,30.0,12.0,3.0
 ID_2040,Good,Within the past year,No,No,No,No,No,No,No,Male,55-59,170.0,79.38,27.41,No,0.0,1.0,1.0,0.0
@@ -1046,7 +1046,7 @@ ID_14319,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,60-64,165.0
 ID_4879,Good,Within the past year,No,No,No,No,No,Yes,Yes,Female,75-79,160.0,71.67,27.99,No,0.0,24.0,2.0,0.0
 ID_3232,Good,Within the past year,No,Yes,No,No,Yes,No,No,Male,75-79,165.0,72.57,26.63,Yes,0.0,2.0,1.0,1.0
 ID_12794,Excellent,Within the past 5 years,Yes,No,No,No,No,No,No,Male,60-64,173.0,81.65,27.37,No,0.0,12.0,16.0,4.0
-ID_10618,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,178.0,63.5,20.09,No,30.0,20.0,8.0,8.0
+ID_10618,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,,178.0,63.5,20.09,No,30.0,20.0,8.0,8.0
 ID_14793,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,70-74,170.0,76.2,26.31,No,0.0,60.0,30.0,3.0
 ID_2875,Good,Within the past year,No,Yes,No,No,No,No,Yes,Female,65-69,173.0,140.61,47.13,No,0.0,1.0,12.0,0.0
 ID_3992,Good,Within the past year,Yes,No,No,No,No,No,No,Male,45-49,178.0,88.45,27.98,Yes,30.0,12.0,24.0,8.0
@@ -1371,7 +1371,7 @@ ID_9304,Fair,Within the past year,Yes,No,No,No,No,Yes,No,Male,45-49,188.0,111.58
 ID_6897,Fair,Within the past year,No,No,No,No,No,Yes,No,Male,80+,178.0,91.63,28.98,Yes,0.0,28.0,12.0,8.0
 ID_3654,Good,Within the past year,No,No,No,No,Yes,No,Yes,Male,30-34,185.0,293.02,85.23,No,0.0,7.0,0.0,12.0
 ID_2572,Good,Within the past 5 years,Yes,No,No,No,No,No,No,Male,18-24,175.0,99.79,32.49,No,3.0,30.0,4.0,8.0
-ID_13367,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,45-49,178.0,103.42,32.71,No,8.0,90.0,30.0,1.0
+ID_13367,Excellent,Within the past year,Yes,No,,No,No,No,No,Male,45-49,178.0,103.42,32.71,No,8.0,90.0,30.0,1.0
 ID_9029,Fair,Within the past year,No,No,No,No,No,No,No,Female,65-69,160.0,83.91,32.77,No,0.0,30.0,30.0,4.0
 ID_12928,Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Female,45-49,168.0,54.43,19.37,No,15.0,28.0,28.0,2.0
 ID_2888,Good,Within the past year,Yes,No,No,No,No,No,No,Female,40-44,163.0,74.84,28.32,No,0.0,16.0,12.0,8.0
@@ -2064,7 +2064,7 @@ ID_4146,Good,Within the past year,Yes,No,No,Yes,No,No,Yes,Female,70-74,157.0,114
 ID_11766,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,45-49,157.0,54.43,21.95,No,2.0,30.0,16.0,4.0
 ID_7905,Fair,Within the past year,No,Yes,Yes,Yes,Yes,No,Yes,Female,70-74,160.0,83.91,32.77,No,0.0,0.0,0.0,0.0
 ID_7137,Fair,Within the past year,No,No,No,No,Yes,No,No,Female,50-54,173.0,96.62,32.39,Yes,0.0,120.0,8.0,2.0
-ID_13107,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,175.0,70.31,22.89,No,0.0,8.0,30.0,1.0
+ID_13107,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,,175.0,70.31,22.89,No,0.0,8.0,30.0,1.0
 ID_6612,Fair,Within the past year,Yes,No,No,No,Yes,Yes,No,Male,30-34,178.0,113.4,35.87,No,25.0,12.0,5.0,5.0
 ID_8504,Fair,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,175.0,70.31,22.89,No,6.0,0.0,0.0,10.0
 ID_5650,Good,Within the past year,Yes,No,No,Yes,No,No,No,Female,50-54,160.0,97.52,38.09,Yes,3.0,12.0,8.0,2.0
@@ -2203,7 +2203,7 @@ ID_898,Good,Within the past year,Yes,No,Yes,No,No,No,No,Male,40-44,185.0,72.57,2
 ID_14417,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Female,55-59,165.0,54.43,19.97,Yes,15.0,30.0,12.0,2.0
 ID_2435,Good,Within the past 5 years,Yes,No,No,No,Yes,No,No,Male,45-49,170.0,76.2,26.31,No,0.0,8.0,2.0,8.0
 ID_9645,Fair,Within the past year,No,No,No,No,No,Yes,Yes,Female,60-64,155.0,88.45,36.84,Yes,0.0,120.0,30.0,0.0
-ID_9806,Fair,Within the past year,No,Yes,No,No,Yes,Yes,Yes,Female,60-64,163.0,98.88,37.42,No,0.0,4.0,2.0,3.0
+ID_9806,Fair,Within the past year,No,Yes,No,No,Yes,Yes,Yes,Female,,163.0,98.88,37.42,No,0.0,4.0,2.0,3.0
 ID_3880,Good,Within the past year,No,No,No,No,No,No,No,Female,40-44,157.0,104.33,42.07,No,6.0,3.0,2.0,4.0
 ID_10196,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,188.0,86.18,24.39,No,10.0,12.0,12.0,12.0
 ID_7247,Fair,Within the past year,No,No,No,No,No,Yes,Yes,Female,65-69,152.0,62.14,26.76,No,0.0,30.0,30.0,0.0
@@ -2692,7 +2692,7 @@ ID_4959,Good,Within the past year,No,No,Yes,No,No,No,Yes,Female,40-44,163.0,99.7
 ID_2748,Good,Within the past 2 years,No,No,No,No,No,No,Yes,Female,80+,157.0,58.06,23.41,Yes,1.0,8.0,4.0,1.0
 ID_3326,Good,Within the past 2 years,Yes,No,No,No,No,No,No,Female,35-39,168.0,75.75,26.95,Yes,0.0,4.0,4.0,8.0
 ID_6457,Fair,Within the past year,No,Yes,Yes,No,No,Yes,No,Male,80+,185.0,106.59,31.0,No,0.0,30.0,30.0,0.0
-ID_212,Good,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,185.0,104.33,30.34,Yes,0.0,1.0,0.0,28.0
+ID_212,Good,Within the past year,Yes,No,No,No,No,No,No,Male,,185.0,104.33,30.34,Yes,0.0,1.0,0.0,28.0
 ID_12683,Excellent,Within the past year,Yes,No,No,Yes,No,No,No,Male,75-79,180.0,99.79,30.68,No,0.0,2.0,3.0,30.0
 ID_14089,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,50-54,170.0,67.13,23.18,No,4.0,12.0,16.0,16.0
 ID_15328,Excellent,Within the past 5 years,Yes,No,No,No,No,No,No,Male,35-39,175.0,78.93,25.7,Yes,30.0,4.0,12.0,20.0
@@ -2714,7 +2714,7 @@ ID_15582,Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Female,80+,150.0,
 ID_9727,Fair,Within the past year,No,No,No,No,Yes,Yes,Yes,Female,60-64,157.0,108.86,43.9,Yes,2.0,20.0,8.0,4.0
 ID_1107,Good,Within the past year,Yes,No,No,No,No,"No, pre-diabetes or borderline diabetes",Yes,Female,55-59,185.0,59.87,17.42,No,2.0,10.0,15.0,2.0
 ID_11417,Excellent,Within the past year,Yes,No,No,No,Yes,No,No,Female,70-74,157.0,65.77,26.52,No,0.0,90.0,20.0,2.0
-ID_15212,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,60-64,163.0,64.41,24.37,No,2.0,30.0,90.0,4.0
+ID_15212,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,,163.0,64.41,24.37,No,2.0,30.0,90.0,4.0
 ID_6402,Fair,Within the past 5 years,Yes,No,No,No,No,No,No,Male,18-24,196.0,158.76,41.5,No,0.0,20.0,0.0,4.0
 ID_14842,Excellent,5 or more years ago,Yes,No,No,No,No,No,No,Male,25-29,178.0,70.31,22.24,No,10.0,30.0,4.0,0.0
 ID_5366,Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,60-64,170.0,90.72,31.32,No,0.0,90.0,15.0,5.0
@@ -3828,7 +3828,7 @@ ID_6087,Fair,Within the past year,No,Yes,No,Yes,Yes,"Yes, but female told only d
 ID_8532,Fair,Within the past year,Yes,No,No,No,No,Yes,No,Male,65-69,196.0,108.86,28.46,No,20.0,24.0,12.0,0.0
 ID_11832,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,60-64,170.0,72.57,25.06,No,4.0,30.0,8.0,0.0
 ID_6464,Fair,Within the past year,Yes,No,Yes,No,Yes,Yes,Yes,Male,60-64,173.0,96.62,32.39,Yes,1.0,3.0,3.0,4.0
-ID_2327,Good,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,168.0,81.65,29.05,No,0.0,30.0,4.0,4.0
+ID_2327,Good,Within the past year,Yes,No,No,No,No,No,No,Male,,168.0,81.65,29.05,No,0.0,30.0,4.0,4.0
 ID_13006,Excellent,Within the past 2 years,Yes,No,No,No,No,No,Yes,Female,55-59,175.0,68.04,22.15,No,2.0,60.0,30.0,2.0
 ID_9075,Fair,Within the past year,No,No,No,No,No,No,No,Male,65-69,183.0,127.01,37.97,No,5.0,20.0,20.0,3.0
 ID_1079,Good,Within the past year,Yes,No,No,No,Yes,No,No,Male,50-54,183.0,95.25,28.48,No,0.0,30.0,8.0,4.0
@@ -4306,7 +4306,7 @@ ID_11449,Excellent,Within the past year,No,No,No,No,No,No,No,Male,30-34,183.0,12
 ID_14762,Excellent,Within the past 2 years,Yes,No,No,No,No,No,No,Male,55-59,170.0,97.52,33.67,No,0.0,30.0,30.0,2.0
 ID_6511,Fair,Within the past year,No,No,No,No,No,No,No,Female,80+,160.0,55.34,21.61,Yes,0.0,20.0,4.0,0.0
 ID_2274,Good,5 or more years ago,Yes,No,No,No,No,No,No,Male,30-34,188.0,86.18,24.39,Yes,8.0,16.0,30.0,16.0
-ID_10289,Excellent,Within the past 5 years,No,No,No,No,Yes,No,No,Female,25-29,178.0,147.42,46.63,No,0.0,120.0,12.0,30.0
+ID_10289,Excellent,Within the past 5 years,No,No,,No,Yes,No,No,Female,25-29,178.0,147.42,46.63,No,0.0,120.0,12.0,30.0
 ID_12842,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,50-54,163.0,67.13,25.4,Yes,0.0,12.0,16.0,8.0
 ID_13450,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,45-49,183.0,99.79,29.84,Yes,20.0,30.0,16.0,4.0
 ID_14169,Excellent,Within the past year,No,No,No,No,No,No,No,Female,45-49,178.0,86.18,27.26,Yes,0.0,30.0,8.0,0.0
@@ -4725,7 +4725,7 @@ ID_2267,Good,Within the past year,Yes,No,No,No,No,No,No,Female,40-44,163.0,83.91
 ID_11635,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,180.0,84.37,25.94,Yes,0.0,30.0,30.0,3.0
 ID_1087,Good,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,170.0,104.33,36.02,No,4.0,12.0,20.0,4.0
 ID_15622,Excellent,Within the past 2 years,Yes,No,No,No,No,No,Yes,Male,55-59,175.0,81.65,26.58,No,30.0,12.0,12.0,0.0
-ID_15859,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,160.0,90.72,35.43,No,0.0,30.0,8.0,4.0
+ID_15859,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,,160.0,90.72,35.43,No,0.0,30.0,8.0,4.0
 ID_2833,Good,Within the past year,Yes,No,No,No,No,Yes,No,Female,45-49,157.0,60.78,24.51,Yes,0.0,30.0,1.0,20.0
 ID_12415,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,40-44,180.0,81.65,25.1,Yes,20.0,30.0,10.0,12.0
 ID_2253,Good,Within the past year,Yes,No,No,No,No,Yes,No,Male,55-59,178.0,90.72,28.7,Yes,0.0,12.0,12.0,8.0
@@ -5022,7 +5022,7 @@ ID_3302,Good,Within the past 2 years,No,No,No,No,Yes,No,No,Male,18-24,178.0,77.1
 ID_3442,Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,55-59,157.0,78.47,31.64,No,0.0,12.0,8.0,8.0
 ID_12862,Excellent,Within the past 2 years,Yes,No,No,No,No,No,No,Male,25-29,165.0,72.57,26.63,No,12.0,16.0,30.0,4.0
 ID_12254,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,60-64,168.0,57.61,20.5,Yes,0.0,0.0,0.0,0.0
-ID_6496,Fair,Within the past year,No,Yes,No,No,No,No,No,Male,60-64,185.0,98.88,28.76,Yes,0.0,90.0,0.0,0.0
+ID_6496,Fair,Within the past year,No,Yes,No,No,No,No,No,Male,,185.0,98.88,28.76,Yes,0.0,90.0,0.0,0.0
 ID_7665,Fair,Within the past year,No,No,No,No,No,No,Yes,Female,80+,157.0,49.9,20.12,No,0.0,30.0,30.0,0.0
 ID_11092,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,65-69,157.0,45.81,18.47,Yes,4.0,60.0,28.0,0.0
 ID_1069,Good,Within the past 5 years,No,No,No,No,No,No,No,Female,55-59,165.0,58.97,21.63,No,0.0,30.0,8.0,4.0
@@ -5698,7 +5698,7 @@ ID_11642,Excellent,Within the past 5 years,Yes,No,No,No,No,No,No,Male,30-34,165.
 ID_897,Good,Within the past year,No,No,No,No,Yes,No,No,Female,60-64,157.0,68.04,27.44,Yes,0.0,12.0,4.0,1.0
 ID_1449,Good,Within the past year,No,No,No,Yes,Yes,Yes,Yes,Female,75-79,163.0,123.38,46.69,No,0.0,90.0,20.0,2.0
 ID_3113,Good,Within the past year,Yes,No,No,Yes,Yes,No,No,Female,40-44,163.0,84.82,32.1,No,0.0,20.0,3.0,2.0
-ID_2159,Good,Never,Yes,Yes,No,No,No,No,No,Male,40-44,163.0,72.57,27.46,Yes,0.0,15.0,4.0,4.0
+ID_2159,Good,Never,Yes,Yes,,No,No,No,No,Male,40-44,163.0,72.57,27.46,Yes,0.0,15.0,4.0,4.0
 ID_9783,Fair,5 or more years ago,No,No,No,No,No,No,No,Male,30-34,183.0,108.86,32.55,No,0.0,8.0,0.0,30.0
 ID_1671,Good,Within the past year,Yes,No,No,No,No,No,No,Male,35-39,178.0,81.65,25.83,No,0.0,80.0,3.0,8.0
 ID_5721,Fair,Within the past year,No,No,No,No,No,Yes,Yes,Male,70-74,183.0,89.81,26.85,Yes,1.0,90.0,12.0,8.0
@@ -6228,7 +6228,7 @@ ID_440,Good,Within the past 5 years,Yes,No,Yes,No,No,No,No,Male,50-54,183.0,74.8
 ID_15649,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,178.0,70.31,22.24,Yes,5.0,30.0,30.0,8.0
 ID_2959,Good,Within the past year,No,No,No,No,No,No,Yes,Female,70-74,173.0,61.23,20.53,Yes,25.0,6.0,10.0,3.0
 ID_5543,Good,Within the past 5 years,No,No,No,No,No,No,No,Female,65-69,157.0,68.04,27.44,Yes,2.0,0.0,2.0,2.0
-ID_5070,Good,Within the past year,No,No,No,No,No,No,No,Female,60-64,160.0,77.11,30.11,No,2.0,30.0,4.0,8.0
+ID_5070,Good,Within the past year,No,No,No,No,No,No,No,Female,,160.0,77.11,30.11,No,2.0,30.0,4.0,8.0
 ID_954,Good,Within the past year,Yes,No,No,No,No,No,No,Male,65-69,178.0,90.72,28.7,No,0.0,0.0,0.0,1.0
 ID_1926,Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,70-74,152.0,70.76,30.47,No,0.0,60.0,8.0,4.0
 ID_15897,Excellent,Within the past year,No,No,No,No,No,No,No,Female,35-39,157.0,95.25,38.41,Yes,0.0,12.0,0.0,8.0
@@ -6527,7 +6527,7 @@ ID_11064,Excellent,Within the past 2 years,Yes,No,No,No,No,No,Yes,Male,55-59,185
 ID_14889,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,30-34,185.0,99.79,29.03,Yes,0.0,90.0,30.0,4.0
 ID_2575,Good,Within the past year,Yes,No,No,No,Yes,Yes,Yes,Female,70-74,160.0,95.25,37.2,No,0.0,20.0,0.0,1.0
 ID_2000,Good,Within the past year,Yes,No,No,Yes,No,No,Yes,Female,60-64,163.0,113.4,42.91,Yes,3.0,16.0,20.0,8.0
-ID_12273,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,188.0,99.79,28.25,Yes,30.0,20.0,20.0,10.0
+ID_12273,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,,188.0,99.79,28.25,Yes,30.0,20.0,20.0,10.0
 ID_14223,Excellent,Within the past 2 years,Yes,No,No,No,No,No,No,Female,60-64,157.0,63.5,25.61,No,0.0,30.0,12.0,0.0
 ID_4874,Good,Within the past year,No,No,No,Yes,No,No,Yes,Female,65-69,163.0,58.97,22.31,Yes,30.0,30.0,5.0,10.0
 ID_405,Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,65-69,168.0,60.78,21.63,Yes,30.0,60.0,4.0,0.0
@@ -7623,7 +7623,7 @@ ID_2186,Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,45-49,175.0,95.25,
 ID_11246,Excellent,5 or more years ago,Yes,No,No,No,Yes,Yes,No,Male,70-74,173.0,92.99,31.17,No,0.0,12.0,0.0,1.0
 ID_13273,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,30-34,165.0,68.04,24.96,Yes,12.0,16.0,4.0,4.0
 ID_4012,Good,Within the past year,No,No,Yes,No,No,Yes,Yes,Male,75-79,168.0,102.06,36.32,No,0.0,28.0,0.0,4.0
-ID_4412,Good,Within the past year,Yes,Yes,Yes,No,No,No,Yes,Male,60-64,175.0,104.33,33.96,No,0.0,20.0,12.0,0.0
+ID_4412,Good,Within the past year,Yes,Yes,Yes,No,No,No,Yes,Male,,175.0,104.33,33.96,No,0.0,20.0,12.0,0.0
 ID_14890,Excellent,Within the past year,No,No,No,No,No,No,No,Female,50-54,152.0,77.11,33.2,Yes,4.0,0.0,30.0,4.0
 ID_12458,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Male,60-64,168.0,77.11,27.44,No,1.0,30.0,60.0,1.0
 ID_140,Good,Within the past 2 years,Yes,No,No,No,No,No,No,Male,45-49,163.0,62.14,23.52,No,0.0,30.0,0.0,0.0
@@ -8075,7 +8075,7 @@ ID_7688,Fair,Within the past 2 years,No,No,No,No,No,No,No,Male,80+,170.0,72.57,2
 ID_1459,Good,Within the past year,No,No,No,No,Yes,No,No,Female,30-34,163.0,97.98,37.08,No,3.0,30.0,4.0,4.0
 ID_513,Good,Within the past year,No,No,No,No,Yes,No,No,Female,50-54,157.0,70.31,28.35,No,2.0,12.0,16.0,2.0
 ID_10499,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,25-29,163.0,58.06,21.97,No,2.0,16.0,7.0,10.0
-ID_4516,Good,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,180.0,81.65,25.1,Yes,12.0,16.0,30.0,4.0
+ID_4516,Good,Within the past year,Yes,No,No,No,No,No,No,Male,,180.0,81.65,25.1,Yes,12.0,16.0,30.0,4.0
 ID_14429,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,50-54,163.0,63.5,24.03,Yes,0.0,30.0,12.0,4.0
 ID_14502,Excellent,Within the past year,No,No,No,No,No,No,No,Female,70-74,163.0,61.23,23.17,Yes,0.0,30.0,8.0,2.0
 ID_15035,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,165.0,63.5,23.3,No,0.0,60.0,90.0,4.0
@@ -8412,7 +8412,7 @@ ID_5251,Good,Within the past year,Yes,No,No,No,No,Yes,No,Male,70-74,178.0,108.86
 ID_12195,Excellent,Within the past year,No,No,Yes,No,No,No,No,Female,65-69,165.0,65.77,24.13,Yes,3.0,4.0,4.0,8.0
 ID_5460,Good,Within the past year,No,No,No,No,No,No,Yes,Female,75-79,157.0,63.5,25.61,No,0.0,90.0,0.0,0.0
 ID_3469,Good,Within the past year,No,Yes,Yes,Yes,No,Yes,No,Male,80+,185.0,88.45,25.73,Yes,3.0,16.0,24.0,4.0
-ID_3604,Good,Within the past year,Yes,No,No,No,No,No,No,Female,60-64,160.0,90.72,35.43,No,0.0,90.0,30.0,2.0
+ID_3604,Good,Within the past year,Yes,No,No,No,No,No,No,Female,,160.0,90.72,35.43,No,0.0,90.0,30.0,2.0
 ID_349,Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,65-69,163.0,77.11,29.18,Yes,0.0,30.0,20.0,5.0
 ID_11041,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,80+,173.0,74.84,25.09,Yes,4.0,0.0,8.0,30.0
 ID_1859,Good,Within the past year,Yes,No,No,Yes,No,No,No,Male,70-74,178.0,72.57,22.96,No,8.0,30.0,12.0,8.0
@@ -8607,7 +8607,7 @@ ID_9366,Fair,Within the past year,Yes,Yes,No,No,No,No,Yes,Female,80+,155.0,64.41
 ID_12779,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Male,70-74,183.0,90.72,27.12,Yes,30.0,60.0,20.0,10.0
 ID_4662,Good,Within the past year,Yes,No,Yes,Yes,No,Yes,Yes,Male,70-74,173.0,81.65,27.37,Yes,5.0,30.0,20.0,8.0
 ID_3811,Good,Never,No,No,No,No,No,No,No,Male,30-34,170.0,72.57,25.11,Yes,2.0,0.0,2.0,8.0
-ID_7926,Fair,Within the past year,Yes,No,No,No,No,Yes,Yes,Male,60-64,173.0,113.4,38.01,Yes,0.0,12.0,20.0,2.0
+ID_7926,Fair,Within the past year,Yes,No,No,No,No,Yes,Yes,Male,,173.0,113.4,38.01,Yes,0.0,12.0,20.0,2.0
 ID_2001,Good,Within the past year,Yes,No,No,No,No,No,No,Male,25-29,175.0,63.96,20.82,No,0.0,30.0,4.0,8.0
 ID_8322,Fair,Within the past 2 years,Yes,Yes,No,No,No,No,Yes,Male,50-54,193.0,142.88,38.34,No,10.0,4.0,4.0,12.0
 ID_6740,Fair,Within the past year,No,Yes,No,No,No,No,Yes,Male,70-74,170.0,81.65,28.19,No,0.0,30.0,8.0,4.0
@@ -9411,7 +9411,7 @@ ID_3757,Good,Within the past year,Yes,No,No,No,No,No,No,Male,35-39,185.0,95.25,2
 ID_125,Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,18-24,173.0,158.76,53.22,No,0.0,12.0,2.0,4.0
 ID_726,Good,Within the past year,Yes,No,No,No,No,No,No,Female,70-74,152.0,58.51,25.19,No,0.0,12.0,12.0,4.0
 ID_8061,Fair,Within the past year,No,No,Yes,No,Yes,No,No,Female,80+,163.0,54.43,20.6,Yes,0.0,0.0,0.0,1.0
-ID_10746,Excellent,Within the past 2 years,Yes,No,No,No,No,No,Yes,Female,50-54,157.0,68.49,27.62,No,0.0,120.0,20.0,3.0
+ID_10746,Excellent,Within the past 2 years,Yes,No,,No,No,No,Yes,Female,50-54,157.0,68.49,27.62,No,0.0,120.0,20.0,3.0
 ID_14161,Excellent,Within the past year,Yes,No,Yes,Yes,No,No,No,Female,60-64,165.0,70.31,25.79,Yes,20.0,60.0,20.0,3.0
 ID_7915,Fair,Within the past year,Yes,No,No,No,No,"No, pre-diabetes or borderline diabetes",No,Male,18-24,185.0,104.33,30.34,No,3.0,20.0,30.0,12.0
 ID_11760,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Female,75-79,135.0,53.52,29.53,No,12.0,28.0,28.0,1.0
@@ -10741,7 +10741,7 @@ ID_7720,Fair,Within the past 2 years,Yes,No,No,No,No,No,Yes,Male,45-49,175.0,108
 ID_11479,Excellent,Within the past 5 years,Yes,No,No,No,No,No,No,Male,18-24,178.0,58.97,18.65,No,0.0,10.0,0.0,20.0
 ID_4652,Good,Within the past year,Yes,No,Yes,No,Yes,No,Yes,Female,75-79,160.0,59.87,23.38,Yes,28.0,60.0,16.0,1.0
 ID_9181,Fair,Within the past year,Yes,No,No,No,No,No,No,Male,40-44,183.0,163.29,48.82,Yes,2.0,60.0,12.0,12.0
-ID_9106,Fair,Within the past year,Yes,No,No,No,Yes,No,No,Male,30-34,175.0,79.38,25.84,Yes,10.0,0.0,3.0,20.0
+ID_9106,Fair,Within the past year,Yes,No,,No,Yes,No,No,Male,30-34,175.0,79.38,25.84,Yes,10.0,0.0,3.0,20.0
 ID_13180,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,80+,165.0,72.57,26.63,No,0.0,30.0,4.0,0.0
 ID_2816,Good,Within the past year,Yes,No,Yes,No,No,No,Yes,Female,70-74,168.0,71.21,25.34,Yes,0.0,5.0,3.0,0.0
 ID_2496,Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,60-64,157.0,68.04,27.44,No,0.0,60.0,30.0,1.0
